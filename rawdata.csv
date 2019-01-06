@@ -1,0 +1,3677 @@
+ResettlementCountry,OriginCountry,Year,Value
+Argentina,Colombia,2008,42
+Argentina,Colombia,2009,26
+Argentina,Colombia,2010,15
+Argentina,Colombia,2011,24
+Argentina,Colombia,2012,6
+Argentina,Colombia,2014,20
+Argentina,Costa Rica,2009,1
+Argentina,Ecuador,2009,2
+Argentina,Ecuador,2010,1
+Argentina,Ecuador,2012,2
+Argentina,Ecuador,2014,1
+Argentina,Guatemala,2009,1
+Argentina,El Salvador,2010,6
+Argentina,El Salvador,2011,4
+Australia,Afghanistan,2008,811
+Australia,Afghanistan,2009,853
+Australia,Afghanistan,2010,593
+Australia,Afghanistan,2011,922
+Australia,Afghanistan,2012,398
+Australia,Afghanistan,2013,2073
+Australia,Afghanistan,2014,1874
+Australia,Afghanistan,2015,1089
+Australia,Afghanistan,2016,2563
+Australia,Afghanistan,2017,1369
+Australia,Angola,2010,1
+Australia,Angola,2016,3
+Australia,Albania,2008,2
+Australia,Albania,2009,1
+Australia,Albania,2016,39
+Australia,United Arab Emirates,2008,2
+Australia,United Arab Emirates,2010,3
+Australia,United Arab Emirates,2012,2
+Australia,United Arab Emirates,2014,10
+Australia,United Arab Emirates,2015,5
+Australia,United Arab Emirates,2016,3
+Australia,United Arab Emirates,2017,9
+Australia,Argentina,2016,6
+Australia,Australia,2012,1
+Australia,Azerbaijan,2010,2
+Australia,Azerbaijan,2012,1
+Australia,Azerbaijan,2016,23
+Australia,Burundi,2008,193
+Australia,Burundi,2009,174
+Australia,Burundi,2010,89
+Australia,Burundi,2011,39
+Australia,Burundi,2012,30
+Australia,Burundi,2013,31
+Australia,Burundi,2014,48
+Australia,Burundi,2015,35
+Australia,Burundi,2016,18
+Australia,Burundi,2017,87
+Australia,Belgium,2016,6
+Australia,Benin,2010,11
+Australia,Benin,2012,1
+Australia,Benin,2014,3
+Australia,Bangladesh,2008,1
+Australia,Bangladesh,2009,1
+Australia,Bangladesh,2010,69
+Australia,Bangladesh,2016,433
+Australia,Bulgaria,2008,2
+Australia,Bulgaria,2016,3
+Australia,Bahrain,2016,9
+Australia,The Bahamas,2016,3
+Australia,Bosnia and Herzegovina,2008,3
+Australia,Bosnia and Herzegovina,2016,9
+Australia,Belarus,2016,3
+Australia,Brazil,2010,1
+Australia,Brazil,2016,27
+Australia,Brunei ,2016,3
+Australia,Bhutan,2008,517
+Australia,Bhutan,2009,674
+Australia,Bhutan,2010,804
+Australia,Bhutan,2011,646
+Australia,Bhutan,2012,377
+Australia,Bhutan,2013,525
+Australia,Bhutan,2014,315
+Australia,Bhutan,2015,177
+Australia,Bhutan,2016,8
+Australia,Bhutan,2017,258
+Australia,Botswana,2013,7
+Australia,Botswana,2015,13
+Australia,Botswana,2016,3
+Australia,Central African Republic,2010,1
+Australia,Canada,2016,3
+Australia,Switzerland,2010,2
+Australia,Chile,2016,3
+Australia,China,2008,66
+Australia,China,2009,97
+Australia,China,2010,98
+Australia,China,2011,106
+Australia,China,2012,9
+Australia,China,2013,17
+Australia,China,2014,4
+Australia,China,2016,1914
+Australia,Ivory Coast,2008,67
+Australia,Ivory Coast,2009,15
+Australia,Ivory Coast,2010,56
+Australia,Ivory Coast,2011,24
+Australia,Ivory Coast,2012,12
+Australia,Ivory Coast,2013,7
+Australia,Ivory Coast,2014,28
+Australia,Ivory Coast,2015,1
+Australia,Ivory Coast,2017,7
+Australia,Cameroon,2008,2
+Australia,Cameroon,2009,7
+Australia,Cameroon,2010,22
+Australia,Cameroon,2011,13
+Australia,Cameroon,2016,18
+Australia,Democratic Republic of the Congo,2008,184
+Australia,Democratic Republic of the Congo,2009,671
+Australia,Democratic Republic of the Congo,2010,573
+Australia,Democratic Republic of the Congo,2011,253
+Australia,Democratic Republic of the Congo,2012,273
+Australia,Democratic Republic of the Congo,2013,444
+Australia,Democratic Republic of the Congo,2014,216
+Australia,Democratic Republic of the Congo,2015,358
+Australia,Democratic Republic of the Congo,2016,23
+Australia,Democratic Republic of the Congo,2017,329
+Australia,Republic of Congo,2008,28
+Australia,Republic of Congo,2009,77
+Australia,Republic of Congo,2010,93
+Australia,Republic of Congo,2011,121
+Australia,Republic of Congo,2012,40
+Australia,Republic of Congo,2013,15
+Australia,Republic of Congo,2014,3
+Australia,Republic of Congo,2015,2
+Australia,Republic of Congo,2016,9
+Australia,Republic of Congo,2017,30
+Australia,Colombia,2008,4
+Australia,Colombia,2010,5
+Australia,Colombia,2012,3
+Australia,Colombia,2016,65
+Australia,Cuba,2010,3
+Australia,Cuba,2011,19
+Australia,Cuba,2012,19
+Australia,Cuba,2016,3
+Australia,Cuba,2017,18
+Australia,Northern Cyprus,2012,2
+Australia,Northern Cyprus,2015,1
+Australia,Northern Cyprus,2016,6
+Australia,Germany,2009,3
+Australia,Germany,2010,1
+Australia,Germany,2016,18
+Australia,Djibouti,2010,5
+Australia,Djibouti,2014,6
+Australia,Djibouti,2015,3
+Australia,Algeria,2010,1
+Australia,Algeria,2014,1
+Australia,Algeria,2016,15
+Australia,Egypt,2008,35
+Australia,Egypt,2009,68
+Australia,Egypt,2010,21
+Australia,Egypt,2012,52
+Australia,Egypt,2013,182
+Australia,Egypt,2014,105
+Australia,Egypt,2015,48
+Australia,Egypt,2016,111
+Australia,Egypt,2017,36
+Australia,Eritrea,2008,59
+Australia,Eritrea,2009,183
+Australia,Eritrea,2010,150
+Australia,Eritrea,2011,207
+Australia,Eritrea,2012,106
+Australia,Eritrea,2013,210
+Australia,Eritrea,2014,277
+Australia,Eritrea,2015,315
+Australia,Eritrea,2016,21
+Australia,Eritrea,2017,347
+Australia,Ethiopia,2008,253
+Australia,Ethiopia,2009,552
+Australia,Ethiopia,2010,386
+Australia,Ethiopia,2011,269
+Australia,Ethiopia,2012,186
+Australia,Ethiopia,2013,203
+Australia,Ethiopia,2014,176
+Australia,Ethiopia,2015,269
+Australia,Ethiopia,2016,102
+Australia,Ethiopia,2017,254
+Australia,Fiji,2008,4
+Australia,Fiji,2009,3
+Australia,Fiji,2010,11
+Australia,Fiji,2016,390
+Australia,France,2016,25
+Australia,Gabon,2016,3
+Australia,United Kingdom,2010,3
+Australia,United Kingdom,2012,1
+Australia,United Kingdom,2015,1
+Australia,United Kingdom,2016,23
+Australia,Georgia,2010,1
+Australia,Georgia,2016,21
+Australia,Ghana,2008,18
+Australia,Ghana,2009,3
+Australia,Ghana,2010,44
+Australia,Ghana,2011,13
+Australia,Ghana,2012,4
+Australia,Ghana,2013,12
+Australia,Ghana,2014,6
+Australia,Ghana,2015,1
+Australia,Ghana,2016,55
+Australia,Guinea,2008,52
+Australia,Guinea,2009,6
+Australia,Guinea,2010,74
+Australia,Guinea,2011,30
+Australia,Guinea,2012,12
+Australia,Guinea,2013,12
+Australia,Guinea,2014,14
+Australia,Guinea,2015,1
+Australia,Guinea,2016,12
+Australia,Guinea,2017,15
+Australia,Gambia,2016,9
+Australia,Guinea Bissau,2008,1
+Australia,Greece,2008,1
+Australia,Greece,2015,1
+Australia,Greece,2016,20
+Australia,"China, Hong Kong SAR",2016,46
+Australia,Honduras,2016,3
+Australia,Croatia,2016,6
+Australia,Haiti,2016,3
+Australia,Hungary,2016,3
+Australia,Indonesia,2008,16
+Australia,Indonesia,2009,8
+Australia,Indonesia,2010,71
+Australia,Indonesia,2011,28
+Australia,Indonesia,2012,6
+Australia,Indonesia,2013,6
+Australia,Indonesia,2014,10
+Australia,Indonesia,2015,12
+Australia,Indonesia,2016,318
+Australia,Indonesia,2017,23
+Australia,India,2008,80
+Australia,India,2009,4
+Australia,India,2010,51
+Australia,India,2011,36
+Australia,India,2012,14
+Australia,India,2013,90
+Australia,India,2014,191
+Australia,India,2015,74
+Australia,India,2016,1117
+Australia,India,2017,76
+Australia,Ireland,2016,15
+Australia,Iran ,2008,406
+Australia,Iran ,2009,163
+Australia,Iran ,2010,277
+Australia,Iran ,2011,404
+Australia,Iran ,2012,436
+Australia,Iran ,2013,1241
+Australia,Iran ,2014,739
+Australia,Iran ,2015,482
+Australia,Iran ,2016,2971
+Australia,Iran ,2017,436
+Australia,Iraq,2008,2997
+Australia,Iraq,2009,2464
+Australia,Iraq,2010,1291
+Australia,Iraq,2011,2479
+Australia,Iraq,2012,1338
+Australia,Iraq,2013,3894
+Australia,Iraq,2014,2335
+Australia,Iraq,2015,1818
+Australia,Iraq,2016,1378
+Australia,Iraq,2017,5201
+Australia,Israel,2016,30
+Australia,Italy,2016,24
+Australia,Jordan,2008,32
+Australia,Jordan,2010,22
+Australia,Jordan,2012,7
+Australia,Jordan,2013,15
+Australia,Jordan,2014,20
+Australia,Jordan,2015,21
+Australia,Jordan,2016,49
+Australia,Jordan,2017,57
+Australia,Japan,2016,9
+Australia,Kazakhstan,2016,3
+Australia,Kenya,2008,162
+Australia,Kenya,2009,3
+Australia,Kenya,2010,103
+Australia,Kenya,2011,87
+Australia,Kenya,2012,56
+Australia,Kenya,2013,92
+Australia,Kenya,2014,47
+Australia,Kenya,2015,172
+Australia,Kenya,2016,44
+Australia,Kenya,2017,169
+Australia,Kyrgyzstan,2008,3
+Australia,Kyrgyzstan,2009,2
+Australia,Kyrgyzstan,2010,2
+Australia,Kyrgyzstan,2016,3
+Australia,Cambodia,2013,9
+Australia,Cambodia,2016,79
+Australia,South Korea,2016,52
+Australia,Kuwait,2008,26
+Australia,Kuwait,2009,7
+Australia,Kuwait,2010,18
+Australia,Kuwait,2011,46
+Australia,Kuwait,2012,8
+Australia,Kuwait,2014,12
+Australia,Kuwait,2015,15
+Australia,Kuwait,2016,15
+Australia,Kuwait,2017,7
+Australia,Laos,2010,133
+Australia,Laos,2011,20
+Australia,Laos,2016,18
+Australia,Lebanon,2008,13
+Australia,Lebanon,2009,6
+Australia,Lebanon,2010,6
+Australia,Lebanon,2013,14
+Australia,Lebanon,2014,65
+Australia,Lebanon,2015,38
+Australia,Lebanon,2016,238
+Australia,Lebanon,2017,99
+Australia,Liberia,2008,251
+Australia,Liberia,2009,339
+Australia,Liberia,2010,131
+Australia,Liberia,2011,43
+Australia,Liberia,2012,28
+Australia,Liberia,2013,23
+Australia,Liberia,2014,59
+Australia,Liberia,2015,12
+Australia,Liberia,2016,11
+Australia,Liberia,2017,20
+Australia,Libya,2008,3
+Australia,Libya,2010,3
+Australia,Libya,2012,30
+Australia,Libya,2014,8
+Australia,Libya,2015,2
+Australia,Libya,2016,158
+Australia,Sri Lanka,2008,283
+Australia,Sri Lanka,2009,251
+Australia,Sri Lanka,2010,134
+Australia,Sri Lanka,2011,279
+Australia,Sri Lanka,2012,17
+Australia,Sri Lanka,2013,81
+Australia,Sri Lanka,2014,20
+Australia,Sri Lanka,2015,18
+Australia,Sri Lanka,2016,2662
+Australia,Sri Lanka,2017,5
+Australia,Latvia,2016,3
+Australia,Morocco,2016,12
+Australia,Madagascar,2016,9
+Australia,Maldives,2016,20
+Australia,Mexico,2016,9
+Australia,Macedonia,2016,15
+Australia,Mali,2010,2
+Australia,Malta,2012,3
+Australia,Myanmar,2008,1985
+Australia,Myanmar,2009,2228
+Australia,Myanmar,2010,1184
+Australia,Myanmar,2011,1179
+Australia,Myanmar,2012,1432
+Australia,Myanmar,2013,1725
+Australia,Myanmar,2014,1292
+Australia,Myanmar,2015,1397
+Australia,Myanmar,2016,60
+Australia,Myanmar,2017,922
+Australia,Mongolia,2008,1
+Australia,Mongolia,2010,4
+Australia,Mongolia,2016,33
+Australia,Mozambique,2013,31
+Australia,Mauritania,2008,14
+Australia,Mauritania,2016,6
+Australia,Mauritius,2016,30
+Australia,Malawi,2008,10
+Australia,Malawi,2009,1
+Australia,Malawi,2010,13
+Australia,Malawi,2011,44
+Australia,Malawi,2012,38
+Australia,Malawi,2013,46
+Australia,Malawi,2014,4
+Australia,Malawi,2015,9
+Australia,Malawi,2017,14
+Australia,Malaysia,2008,30
+Australia,Malaysia,2010,53
+Australia,Malaysia,2011,106
+Australia,Malaysia,2012,185
+Australia,Malaysia,2013,193
+Australia,Malaysia,2014,144
+Australia,Malaysia,2015,152
+Australia,Malaysia,2016,7258
+Australia,Malaysia,2017,107
+Australia,Namibia,2015,2
+Australia,Niger,2009,2
+Australia,Nigeria,2008,13
+Australia,Nigeria,2009,9
+Australia,Nigeria,2010,15
+Australia,Nigeria,2016,108
+Australia,Nicaragua,2016,6
+Australia,Netherlands,2016,5
+Australia,Norway,2016,3
+Australia,Nepal,2008,154
+Australia,Nepal,2009,2
+Australia,Nepal,2010,359
+Australia,Nepal,2011,387
+Australia,Nepal,2012,251
+Australia,Nepal,2013,387
+Australia,Nepal,2014,223
+Australia,Nepal,2015,139
+Australia,Nepal,2016,173
+Australia,Nepal,2017,283
+Australia,New Zealand,2016,20
+Australia,Oman,2015,3
+Australia,Oman,2016,5
+Australia,Pakistan,2008,42
+Australia,Pakistan,2009,34
+Australia,Pakistan,2010,105
+Australia,Pakistan,2011,155
+Australia,Pakistan,2012,46
+Australia,Pakistan,2013,372
+Australia,Pakistan,2014,325
+Australia,Pakistan,2015,274
+Australia,Pakistan,2016,1334
+Australia,Pakistan,2017,233
+Australia,Peru,2016,21
+Australia,Philippines,2009,1
+Australia,Philippines,2011,9
+Australia,Philippines,2016,93
+Australia,Papua New Guinea,2008,1
+Australia,Papua New Guinea,2016,176
+Australia,Poland,2016,9
+Australia,Palestinian,2008,5
+Australia,Palestinian,2009,20
+Australia,Palestinian,2010,4
+Australia,Palestinian,2012,2
+Australia,Palestinian,2014,4
+Australia,Palestinian,2016,108
+Australia,Romania,2010,3
+Australia,Romania,2015,1
+Australia,Romania,2016,6
+Australia,Russia,2008,12
+Australia,Russia,2009,8
+Australia,Russia,2010,2
+Australia,Russia,2016,27
+Australia,Rwanda,2008,47
+Australia,Rwanda,2009,132
+Australia,Rwanda,2010,98
+Australia,Rwanda,2011,54
+Australia,Rwanda,2012,29
+Australia,Rwanda,2013,8
+Australia,Rwanda,2014,10
+Australia,Rwanda,2015,20
+Australia,Rwanda,2016,12
+Australia,Rwanda,2017,13
+Australia,Saudi Arabia,2008,6
+Australia,Saudi Arabia,2009,11
+Australia,Saudi Arabia,2010,11
+Australia,Saudi Arabia,2011,6
+Australia,Saudi Arabia,2012,4
+Australia,Saudi Arabia,2013,9
+Australia,Saudi Arabia,2014,11
+Australia,Saudi Arabia,2015,10
+Australia,Saudi Arabia,2016,53
+Australia,Saudi Arabia,2017,12
+Australia,Sudan,2008,558
+Australia,Sudan,2009,676
+Australia,Sudan,2010,212
+Australia,Sudan,2011,215
+Australia,Sudan,2012,98
+Australia,Sudan,2013,300
+Australia,Sudan,2014,128
+Australia,Sudan,2015,137
+Australia,Sudan,2016,186
+Australia,Sudan,2017,194
+Australia,Senegal,2008,22
+Australia,Singapore,2016,9
+Australia,Solomon Islands,2016,58
+Australia,Sierra Leone,2008,232
+Australia,Sierra Leone,2009,402
+Australia,Sierra Leone,2010,169
+Australia,Sierra Leone,2011,55
+Australia,Sierra Leone,2012,9
+Australia,Sierra Leone,2013,23
+Australia,Sierra Leone,2014,48
+Australia,Sierra Leone,2015,7
+Australia,Sierra Leone,2016,12
+Australia,El Salvador,2009,3
+Australia,El Salvador,2010,3
+Australia,El Salvador,2016,18
+Australia,El Salvador,2017,31
+Australia,Somalia,2008,116
+Australia,Somalia,2009,637
+Australia,Somalia,2010,142
+Australia,Somalia,2011,212
+Australia,Somalia,2012,89
+Australia,Somalia,2013,289
+Australia,Somalia,2014,186
+Australia,Somalia,2015,205
+Australia,Somalia,2016,84
+Australia,Somalia,2017,115
+Australia,Kosovo,2008,9
+Australia,Kosovo,2016,12
+Australia,South Sudan,2014,115
+Australia,South Sudan,2015,55
+Australia,South Sudan,2016,6
+Australia,South Sudan,2017,161
+Australia,Stateless,2008,3
+Australia,Stateless,2010,1
+Australia,Stateless,2016,721
+Australia,Slovenia,2016,3
+Australia,Sweden,2016,3
+Australia,Syria,2008,47
+Australia,Syria,2009,6
+Australia,Syria,2010,17
+Australia,Syria,2011,58
+Australia,Syria,2012,37
+Australia,Syria,2013,141
+Australia,Syria,2014,1820
+Australia,Syria,2015,1502
+Australia,Syria,2016,83
+Australia,Syria,2017,3656
+Australia,Chad,2011,10
+Australia,Chad,2016,3
+Australia,Togo,2008,30
+Australia,Togo,2009,72
+Australia,Togo,2010,49
+Australia,Togo,2011,17
+Australia,Togo,2012,3
+Australia,Togo,2014,7
+Australia,Togo,2016,3
+Australia,Thailand,2008,750
+Australia,Thailand,2009,74
+Australia,Thailand,2010,364
+Australia,Thailand,2011,354
+Australia,Thailand,2012,137
+Australia,Thailand,2013,392
+Australia,Thailand,2014,434
+Australia,Thailand,2015,363
+Australia,Thailand,2016,204
+Australia,Thailand,2017,409
+Australia,Tibetan,2008,73
+Australia,Tibetan,2009,58
+Australia,Tibetan,2010,22
+Australia,Tibetan,2014,109
+Australia,Tibetan,2015,37
+Australia,Tibetan,2016,12
+Australia,Tibetan,2017,20
+Australia,East Timor,2009,4
+Australia,East Timor,2010,12
+Australia,Tonga,2009,7
+Australia,Tonga,2016,55
+Australia,Tunisia,2012,5
+Australia,Tunisia,2016,3
+Australia,Turkey,2008,3
+Australia,Turkey,2009,4
+Australia,Turkey,2011,38
+Australia,Turkey,2012,17
+Australia,Turkey,2014,18
+Australia,Turkey,2015,22
+Australia,Turkey,2016,160
+Australia,Turkey,2017,34
+Australia,United Republic of Tanzania,2008,152
+Australia,United Republic of Tanzania,2009,18
+Australia,United Republic of Tanzania,2010,133
+Australia,United Republic of Tanzania,2011,24
+Australia,United Republic of Tanzania,2012,21
+Australia,United Republic of Tanzania,2013,11
+Australia,United Republic of Tanzania,2014,9
+Australia,United Republic of Tanzania,2015,22
+Australia,United Republic of Tanzania,2016,6
+Australia,United Republic of Tanzania,2017,20
+Australia,Uganda,2008,53
+Australia,Uganda,2009,26
+Australia,Uganda,2010,78
+Australia,Uganda,2011,28
+Australia,Uganda,2012,11
+Australia,Uganda,2013,10
+Australia,Uganda,2014,51
+Australia,Uganda,2015,20
+Australia,Uganda,2016,17
+Australia,Uganda,2017,27
+Australia,Ukraine,2016,30
+Australia,United States of America,2016,21
+Australia,Uzbekistan,2008,19
+Australia,Uzbekistan,2010,4
+Australia,Uzbekistan,2011,18
+Australia,Uzbekistan,2012,5
+Australia,Uzbekistan,2016,3
+Australia,Various/unknown,2008,8
+Australia,Various/unknown,2009,2
+Australia,Various/unknown,2010,3
+Australia,Various/unknown,2011,115
+Australia,Various/unknown,2015,1
+Australia,Various/unknown,2016,64
+Australia,Saint Vincent and the Grenadines,2016,3
+Australia,Venezuela,2014,1
+Australia,Venezuela,2015,1
+Australia,Venezuela,2016,14
+Australia,Vietnam,2008,5
+Australia,Vietnam,2009,1
+Australia,Vietnam,2010,5
+Australia,Vietnam,2011,15
+Australia,Vietnam,2014,1
+Australia,Vietnam,2016,772
+Australia,Vanuatu,2016,3
+Australia,Samoa,2016,12
+Australia,Yemen,2008,1
+Australia,Yemen,2012,2
+Australia,Yemen,2016,21
+Australia,South Africa,2008,1
+Australia,South Africa,2010,6
+Australia,South Africa,2012,9
+Australia,South Africa,2014,9
+Australia,South Africa,2015,8
+Australia,South Africa,2016,30
+Australia,South Africa,2017,5
+Australia,Zambia,2008,3
+Australia,Zambia,2010,56
+Australia,Zambia,2011,22
+Australia,Zambia,2012,10
+Australia,Zambia,2013,23
+Australia,Zambia,2014,20
+Australia,Zambia,2015,26
+Australia,Zambia,2016,24
+Australia,Zambia,2017,7
+Australia,Zimbabwe,2008,24
+Australia,Zimbabwe,2009,7
+Australia,Zimbabwe,2010,22
+Australia,Zimbabwe,2011,21
+Australia,Zimbabwe,2012,25
+Australia,Zimbabwe,2013,6
+Australia,Zimbabwe,2014,9
+Australia,Zimbabwe,2015,2
+Australia,Zimbabwe,2016,71
+Austria,Armenia,2015,1
+Austria,Stateless,2015,1
+Austria,Syria,2014,388
+Austria,Syria,2015,756
+Austria,Syria,2016,200
+Austria,Syria,2017,381
+Austria,Various/unknown,2016,1
+Belgium,Afghanistan,2013,1
+Belgium,Democratic Republic of the Congo,2011,4
+Belgium,Democratic Republic of the Congo,2013,65
+Belgium,Democratic Republic of the Congo,2014,6
+Belgium,Democratic Republic of the Congo,2015,88
+Belgium,Democratic Republic of the Congo,2016,4
+Belgium,Democratic Republic of the Congo,2017,118
+Belgium,Eritrea,2011,21
+Belgium,Iran ,2013,1
+Belgium,Iraq,2009,36
+Belgium,Iraq,2011,4
+Belgium,Liberia,2013,2
+Belgium,Palestinian,2009,11
+Belgium,Syria,2014,28
+Belgium,Syria,2015,188
+Belgium,Syria,2016,448
+Belgium,Syria,2017,1191
+Belgium,United Republic of Tanzania,2013,31
+Belarus,Syria,2015,14
+Brazil,Colombia,2008,16
+Brazil,Colombia,2009,30
+Brazil,Colombia,2010,19
+Brazil,Colombia,2011,20
+Brazil,Colombia,2012,38
+Brazil,Colombia,2013,56
+Brazil,Colombia,2014,24
+Brazil,Colombia,2016,31
+Brazil,Cuba,2017,4
+Brazil,Ecuador,2008,3
+Brazil,Ecuador,2009,2
+Brazil,Ecuador,2010,2
+Brazil,Ecuador,2012,1
+Brazil,Ecuador,2013,5
+Brazil,Sri Lanka,2014,11
+Brazil,Palestinian,2009,1
+Brazil,Syria,2014,1
+Brazil,Venezuela,2011,3
+Brazil,Venezuela ,2013,1
+Canada,Afghanistan,2008,1420
+Canada,Afghanistan,2009,974
+Canada,Afghanistan,2010,1131
+Canada,Afghanistan,2011,1101
+Canada,Afghanistan,2012,1195
+Canada,Afghanistan,2013,1072
+Canada,Afghanistan,2014,642
+Canada,Afghanistan,2015,1305
+Canada,Afghanistan,2016,1354
+Canada,Afghanistan,2017,1773
+Canada,Angola,2010,6
+Canada,Angola,2012,25
+Canada,Angola,2016,6
+Canada,Angola,2017,6
+Canada,Albania,2013,2
+Canada,Albania,2015,1
+Canada,United Arab Emirates,2009,5
+Canada,United Arab Emirates,2010,1
+Canada,United Arab Emirates,2015,1
+Canada,United Arab Emirates,2016,3
+Canada,Armenia,2010,5
+Canada,Armenia,2011,1
+Canada,Armenia,2015,4
+Canada,Armenia,2016,7
+Canada,Armenia,2017,7
+Canada,Azerbaijan,2008,6
+Canada,Azerbaijan,2011,1
+Canada,Azerbaijan,2012,5
+Canada,Azerbaijan,2013,1
+Canada,Azerbaijan,2015,2
+Canada,Azerbaijan,2016,2
+Canada,Burundi,2008,162
+Canada,Burundi,2009,196
+Canada,Burundi,2010,90
+Canada,Burundi,2011,82
+Canada,Burundi,2012,110
+Canada,Burundi,2013,66
+Canada,Burundi,2014,256
+Canada,Burundi,2015,458
+Canada,Burundi,2016,218
+Canada,Burundi,2017,332
+Canada,Benin,2010,1
+Canada,Benin,2011,7
+Canada,Burkina Faso,2015,3
+Canada,Burkina Faso,2016,2
+Canada,Bangladesh,2010,7
+Canada,Bangladesh,2012,2
+Canada,Bangladesh,2014,4
+Canada,Bangladesh,2015,1
+Canada,Bangladesh,2017,4
+Canada,Bahrain,2016,4
+Canada,Bosnia and Herzegovina,2008,8
+Canada,Bosnia and Herzegovina,2010,1
+Canada,Bosnia and Herzegovina,2011,1
+Canada,Brunei ,2015,1
+Canada,Brunei ,2016,1
+Canada,Bhutan,2008,31
+Canada,Bhutan,2009,859
+Canada,Bhutan,2010,1452
+Canada,Bhutan,2011,1875
+Canada,Bhutan,2012,1060
+Canada,Bhutan,2013,478
+Canada,Bhutan,2014,352
+Canada,Bhutan,2015,374
+Canada,Bhutan,2016,106
+Canada,Bhutan,2017,59
+Canada,Botswana,2012,5
+Canada,Botswana,2015,2
+Canada,Botswana,2016,2
+Canada,Central African Republic,2008,8
+Canada,Central African Republic,2012,9
+Canada,Central African Republic,2013,148
+Canada,Central African Republic,2014,109
+Canada,Central African Republic,2015,432
+Canada,Central African Republic,2016,76
+Canada,Central African Republic,2017,199
+Canada,Switzerland,2016,2
+Canada,China,2008,7
+Canada,China,2009,15
+Canada,China,2010,7
+Canada,China,2011,18
+Canada,China,2012,6
+Canada,China,2013,5
+Canada,China,2014,15
+Canada,China,2015,16
+Canada,China,2016,22
+Canada,China,2017,21
+Canada,Ivory Coast,2008,8
+Canada,Ivory Coast,2009,10
+Canada,Ivory Coast,2011,61
+Canada,Ivory Coast,2012,17
+Canada,Ivory Coast,2013,8
+Canada,Ivory Coast,2014,37
+Canada,Ivory Coast,2015,155
+Canada,Ivory Coast,2016,152
+Canada,Ivory Coast,2017,93
+Canada,Cameroon,2008,6
+Canada,Cameroon,2011,4
+Canada,Cameroon,2012,6
+Canada,Cameroon,2013,2
+Canada,Cameroon,2014,6
+Canada,Cameroon,2015,6
+Canada,Cameroon,2016,4
+Canada,Cameroon,2017,4
+Canada,Democratic Republic of the Congo,2008,728
+Canada,Democratic Republic of the Congo,2009,856
+Canada,Democratic Republic of the Congo,2010,574
+Canada,Democratic Republic of the Congo,2011,428
+Canada,Democratic Republic of the Congo,2012,703
+Canada,Democratic Republic of the Congo,2013,1323
+Canada,Democratic Republic of the Congo,2014,1066
+Canada,Democratic Republic of the Congo,2015,813
+Canada,Democratic Republic of the Congo,2016,1644
+Canada,Republic of Congo,2008,25
+Canada,Republic of Congo,2009,14
+Canada,Republic of Congo,2010,2
+Canada,Republic of Congo,2011,17
+Canada,Republic of Congo,2012,27
+Canada,Republic of Congo,2013,3
+Canada,Republic of Congo,2014,2
+Canada,Republic of Congo,2015,1
+Canada,Republic of Congo,2016,11
+Canada,Republic of Congo,2017,1413
+Canada,Colombia,2008,1667
+Canada,Colombia,2009,888
+Canada,Colombia,2010,376
+Canada,Colombia,2011,389
+Canada,Colombia,2012,197
+Canada,Colombia,2013,312
+Canada,Colombia,2014,204
+Canada,Colombia,2015,164
+Canada,Colombia,2016,178
+Canada,Colombia,2017,338
+Canada,Comoros,2012,1
+Canada,Costa Rica,2010,1
+Canada,Costa Rica,2012,1
+Canada,Cuba,2009,8
+Canada,Cuba,2010,1
+Canada,Cuba,2012,8
+Canada,Cuba,2013,26
+Canada,Cuba,2014,23
+Canada,Cuba,2015,7
+Canada,Cuba,2016,2
+Canada,Cuba,2017,4
+Canada,Northern Cyprus,2015,3
+Canada,Djibouti,2009,6
+Canada,Djibouti,2011,5
+Canada,Djibouti,2012,1
+Canada,Djibouti,2013,4
+Canada,Djibouti,2016,1
+Canada,Djibouti,2017,4
+Canada,Denmark,2017,4
+Canada,Dominican Republic,2013,1
+Canada,Algeria,2009,9
+Canada,Algeria,2014,1
+Canada,Algeria,2017,4
+Canada,Ecuador,2008,20
+Canada,Ecuador,2009,46
+Canada,Ecuador,2010,21
+Canada,Ecuador,2011,19
+Canada,Ecuador,2012,15
+Canada,Ecuador,2013,5
+Canada,Ecuador,2014,6
+Canada,Ecuador,2015,5
+Canada,Ecuador,2016,11
+Canada,Ecuador,2017,15
+Canada,Egypt,2008,14
+Canada,Egypt,2010,14
+Canada,Egypt,2011,6
+Canada,Egypt,2012,9
+Canada,Egypt,2013,39
+Canada,Egypt,2014,34
+Canada,Egypt,2015,71
+Canada,Egypt,2016,134
+Canada,Egypt,2017,98
+Canada,Eritrea,2008,570
+Canada,Eritrea,2009,649
+Canada,Eritrea,2010,561
+Canada,Eritrea,2011,770
+Canada,Eritrea,2012,866
+Canada,Eritrea,2013,1361
+Canada,Eritrea,2014,1602
+Canada,Eritrea,2015,1702
+Canada,Eritrea,2016,3934
+Canada,Eritrea,2017,4043
+Canada,Spain,2015,1
+Canada,Estonia,2016,1
+Canada,Estonia,2017,4
+Canada,Ethiopia,2008,875
+Canada,Ethiopia,2009,644
+Canada,Ethiopia,2010,753
+Canada,Ethiopia,2011,910
+Canada,Ethiopia,2012,745
+Canada,Ethiopia,2013,805
+Canada,Ethiopia,2014,603
+Canada,Ethiopia,2015,423
+Canada,Ethiopia,2016,725
+Canada,Ethiopia,2017,943
+Canada,United Kingdom,2010,2
+Canada,United Kingdom,2014,2
+Canada,United Kingdom,2015,2
+Canada,Georgia,2012,1
+Canada,Ghana,2010,1
+Canada,Ghana,2012,4
+Canada,Ghana,2014,1
+Canada,Ghana,2016,5
+Canada,Guinea,2009,8
+Canada,Guinea,2010,2
+Canada,Guinea,2011,1
+Canada,Guinea,2012,2
+Canada,Guinea,2014,1
+Canada,Guinea,2015,5
+Canada,Guinea,2016,1
+Canada,Guinea,2017,4
+Canada,Gambia,2015,9
+Canada,Gambia,2016,17
+Canada,Gambia,2017,21
+Canada,Equatorial Guinea,2011,1
+Canada,Equatorial Guinea,2012,2
+Canada,Equatorial Guinea,2013,9
+Canada,Greece,2010,10
+Canada,Greece,2012,1
+Canada,Greece,2013,7
+Canada,Greece,2014,2
+Canada,Guatemala,2011,20
+Canada,Guatemala,2012,11
+Canada,Guatemala,2013,3
+Canada,Guatemala,2017,4
+Canada,"China, Hong Kong SAR",2012,1
+Canada,Honduras,2017,4
+Canada,Haiti,2011,2
+Canada,Haiti,2012,5
+Canada,Haiti,2013,84
+Canada,Haiti,2016,1
+Canada,Indonesia,2010,1
+Canada,Indonesia,2013,1
+Canada,Indonesia,2014,1
+Canada,Indonesia,2015,1
+Canada,India,2008,7
+Canada,India,2009,14
+Canada,India,2010,20
+Canada,India,2011,39
+Canada,India,2012,10
+Canada,India,2013,7
+Canada,India,2014,18
+Canada,India,2015,30
+Canada,India,2016,12
+Canada,India,2017,4
+Canada,Ireland,2011,1
+Canada,Iran ,2008,361
+Canada,Iran ,2009,327
+Canada,Iran ,2010,321
+Canada,Iran ,2011,469
+Canada,Iran ,2012,528
+Canada,Iran ,2013,677
+Canada,Iran ,2014,1080
+Canada,Iran ,2015,420
+Canada,Iran ,2016,248
+Canada,Iran ,2017,165
+Canada,Iraq,2008,2134
+Canada,Iraq,2009,4012
+Canada,Iraq,2010,4041
+Canada,Iraq,2011,4543
+Canada,Iraq,2012,2242
+Canada,Iraq,2013,3394
+Canada,Iraq,2014,2772
+Canada,Iraq,2015,2866
+Canada,Iraq,2016,1650
+Canada,Iraq,2017,3927
+Canada,Israel,2010,2
+Canada,Israel,2011,1
+Canada,Israel,2012,5
+Canada,Israel,2013,6
+Canada,Israel,2014,3
+Canada,Israel,2015,3
+Canada,Israel,2016,3
+Canada,Israel,2017,6
+Canada,Italy,2013,1
+Canada,Jamaica,2010,10
+Canada,Jamaica,2014,1
+Canada,Jamaica,2015,2
+Canada,Jamaica,2017,4
+Canada,Jordan,2010,3
+Canada,Jordan,2011,6
+Canada,Jordan,2012,1
+Canada,Jordan,2013,6
+Canada,Jordan,2014,9
+Canada,Jordan,2015,26
+Canada,Jordan,2016,43
+Canada,Jordan,2017,26
+Canada,Japan,2015,1
+Canada,Kazakhstan,2013,1
+Canada,Kenya,2009,11
+Canada,Kenya,2010,4
+Canada,Kenya,2011,13
+Canada,Kenya,2012,16
+Canada,Kenya,2013,10
+Canada,Kenya,2014,11
+Canada,Kenya,2015,3
+Canada,Kenya,2016,3
+Canada,Kenya,2017,6
+Canada,Kyrgyzstan,2016,3
+Canada,Cambodia,2012,1
+Canada,Cambodia,2013,5
+Canada,Cambodia,2015,1
+Canada,Cambodia,2016,7
+Canada,Cambodia,2017,4
+Canada,Saint Kitts and Nevis,2015,1
+Canada,Kuwait,2013,2
+Canada,Kuwait,2014,1
+Canada,Kuwait,2015,3
+Canada,Laos,2010,27
+Canada,Lebanon,2009,5
+Canada,Lebanon,2010,3
+Canada,Lebanon,2011,11
+Canada,Lebanon,2012,8
+Canada,Lebanon,2013,18
+Canada,Lebanon,2014,55
+Canada,Lebanon,2015,48
+Canada,Lebanon,2016,100
+Canada,Lebanon,2017,37
+Canada,Liberia,2008,48
+Canada,Liberia,2009,66
+Canada,Liberia,2010,125
+Canada,Liberia,2011,71
+Canada,Liberia,2012,11
+Canada,Liberia,2013,11
+Canada,Liberia,2014,10
+Canada,Liberia,2015,125
+Canada,Liberia,2016,114
+Canada,Liberia,2017,25
+Canada,Libya,2011,2
+Canada,Libya,2013,11
+Canada,Libya,2014,6
+Canada,Libya,2015,2
+Canada,Libya,2017,5
+Canada,Saint Lucia,2014,1
+Canada,Sri Lanka,2008,55
+Canada,Sri Lanka,2009,77
+Canada,Sri Lanka,2010,93
+Canada,Sri Lanka,2011,67
+Canada,Sri Lanka,2012,31
+Canada,Sri Lanka,2013,42
+Canada,Sri Lanka,2014,25
+Canada,Sri Lanka,2015,14
+Canada,Sri Lanka,2016,9
+Canada,Sri Lanka,2017,7
+Canada,Lithuania,2015,1
+Canada,Latvia,2015,1
+Canada,Morocco,2010,3
+Canada,Morocco,2012,4
+Canada,Morocco,2013,3
+Canada,Morocco,2014,6
+Canada,Morocco,2015,2
+Canada,Morocco,2016,3
+Canada,Morocco,2017,4
+Canada,Moldova,2015,2
+Canada,Maldives,2015,2
+Canada,Mexico,2010,1
+Canada,Mexico,2012,1
+Canada,Mexico,2013,2
+Canada,Mali,2012,1
+Canada,Mali,2015,1
+Canada,Mali,2017,4
+Canada,Myanmar,2008,880
+Canada,Myanmar,2009,1054
+Canada,Myanmar,2010,439
+Canada,Myanmar,2011,288
+Canada,Myanmar,2012,129
+Canada,Myanmar,2013,215
+Canada,Myanmar,2014,388
+Canada,Myanmar,2015,367
+Canada,Myanmar,2016,368
+Canada,Myanmar,2017,115
+Canada,Montenegro,2010,4
+Canada,Mauritania,2008,51
+Canada,Mauritania,2009,11
+Canada,Mauritania,2010,5
+Canada,Mauritania,2012,7
+Canada,Mauritania,2014,2
+Canada,Mauritania,2015,9
+Canada,Malawi,2012,1
+Canada,Malawi,2015,1
+Canada,Malawi,2017,4
+Canada,Malaysia,2008,10
+Canada,Malaysia,2011,2
+Canada,Malaysia,2014,6
+Canada,Namibia,2014,2
+Canada,Namibia,2015,4
+Canada,Namibia,2016,2
+Canada,Namibia,2017,4
+Canada,Nigeria,2009,33
+Canada,Nigeria,2010,19
+Canada,Nigeria,2012,2
+Canada,Nigeria,2013,3
+Canada,Nigeria,2015,6
+Canada,Nicaragua,2013,1
+Canada,Nepal,2008,10
+Canada,Nepal,2010,4
+Canada,Nepal,2011,5
+Canada,Nepal,2012,9
+Canada,Nepal,2014,16
+Canada,Nepal,2015,18
+Canada,Nepal,2016,8
+Canada,Nepal,2017,4
+Canada,Oman,2013,1
+Canada,Pakistan,2008,73
+Canada,Pakistan,2009,45
+Canada,Pakistan,2010,66
+Canada,Pakistan,2011,83
+Canada,Pakistan,2012,86
+Canada,Pakistan,2013,101
+Canada,Pakistan,2014,160
+Canada,Pakistan,2015,447
+Canada,Pakistan,2016,226
+Canada,Pakistan,2017,249
+Canada,Panama,2017,4
+Canada,Philippines,2010,1
+Canada,Philippines,2014,4
+Canada,Philippines,2015,20
+Canada,Philippines,2016,1
+Canada,Philippines,2017,6
+Canada,Palestinian,2008,6
+Canada,Palestinian,2009,29
+Canada,Palestinian,2010,37
+Canada,Palestinian,2011,32
+Canada,Palestinian,2012,25
+Canada,Palestinian,2013,16
+Canada,Palestinian,2014,24
+Canada,Palestinian,2015,68
+Canada,Palestinian,2016,129
+Canada,Palestinian,2017,47
+Canada,Qatar,2012,1
+Canada,Qatar,2016,1
+Canada,Romania,2012,1
+Canada,Russia,2008,32
+Canada,Russia,2009,25
+Canada,Russia,2010,24
+Canada,Russia,2011,18
+Canada,Russia,2012,15
+Canada,Russia,2013,1
+Canada,Russia,2014,7
+Canada,Russia,2015,8
+Canada,Russia,2016,2
+Canada,Russia,2017,38
+Canada,Rwanda,2008,146
+Canada,Rwanda,2009,100
+Canada,Rwanda,2010,64
+Canada,Rwanda,2011,85
+Canada,Rwanda,2012,113
+Canada,Rwanda,2013,96
+Canada,Rwanda,2014,66
+Canada,Rwanda,2015,88
+Canada,Rwanda,2016,90
+Canada,Rwanda,2017,60
+Canada,Saudi Arabia,2010,3
+Canada,Saudi Arabia,2011,1
+Canada,Saudi Arabia,2012,4
+Canada,Saudi Arabia,2013,4
+Canada,Saudi Arabia,2014,3
+Canada,Saudi Arabia,2015,3
+Canada,Saudi Arabia,2016,2
+Canada,Saudi Arabia,2017,4
+Canada,Sudan,2008,305
+Canada,Sudan,2009,175
+Canada,Sudan,2010,262
+Canada,Sudan,2011,125
+Canada,Sudan,2012,61
+Canada,Sudan,2013,87
+Canada,Sudan,2014,166
+Canada,Sudan,2015,141
+Canada,Sudan,2016,190
+Canada,Sudan,2017,139
+Canada,Senegal,2014,2
+Canada,Senegal,2015,12
+Canada,Senegal,2016,18
+Canada,Senegal,2017,10
+Canada,Sierra Leone,2008,17
+Canada,Sierra Leone,2009,8
+Canada,Sierra Leone,2010,1
+Canada,Sierra Leone,2011,20
+Canada,Sierra Leone,2012,18
+Canada,Sierra Leone,2013,15
+Canada,Sierra Leone,2014,18
+Canada,Sierra Leone,2015,68
+Canada,Sierra Leone,2016,43
+Canada,Sierra Leone,2017,4
+Canada,El Salvador,2008,6
+Canada,El Salvador,2010,4
+Canada,El Salvador,2012,4
+Canada,El Salvador,2017,24
+Canada,Somalia,2008,672
+Canada,Somalia,2009,888
+Canada,Somalia,2010,1153
+Canada,Somalia,2011,1005
+Canada,Somalia,2012,1074
+Canada,Somalia,2013,1457
+Canada,Somalia,2014,1051
+Canada,Somalia,2015,696
+Canada,Somalia,2016,902
+Canada,Somalia,2017,826
+Canada,Kosovo,2008,105
+Canada,Kosovo,2009,57
+Canada,Kosovo,2010,22
+Canada,Kosovo,2011,39
+Canada,Kosovo,2012,3
+Canada,Kosovo,2014,10
+Canada,South Sudan,2014,21
+Canada,South Sudan,2015,40
+Canada,South Sudan,2016,65
+Canada,South Sudan,2017,82
+Canada,Stateless,2008,33
+Canada,Stateless,2010,114
+Canada,Stateless,2011,85
+Canada,Stateless,2012,36
+Canada,Stateless,2013,62
+Canada,Stateless,2014,193
+Canada,Stateless,2015,461
+Canada,Stateless,2016,431
+Canada,Stateless,2017,270
+Canada,Sweden,2010,1
+Canada,Sweden,2015,1
+Canada,Swaziland,2016,2
+Canada,Syria,2008,7
+Canada,Syria,2009,7
+Canada,Syria,2010,20
+Canada,Syria,2011,16
+Canada,Syria,2012,29
+Canada,Syria,2013,45
+Canada,Syria,2014,1083
+Canada,Syria,2015,7924
+Canada,Syria,2016,33266
+Canada,Syria,2017,11042
+Canada,Chad,2010,1
+Canada,Chad,2011,10
+Canada,Chad,2012,8
+Canada,Chad,2013,21
+Canada,Chad,2014,10
+Canada,Chad,2015,30
+Canada,Chad,2016,12
+Canada,Togo,2008,136
+Canada,Togo,2009,131
+Canada,Togo,2010,31
+Canada,Togo,2011,22
+Canada,Togo,2012,9
+Canada,Togo,2013,1
+Canada,Togo,2014,10
+Canada,Togo,2016,8
+Canada,Thailand,2008,6
+Canada,Thailand,2009,5
+Canada,Thailand,2010,1
+Canada,Thailand,2011,6
+Canada,Thailand,2012,4
+Canada,Thailand,2013,1
+Canada,Thailand,2015,5
+Canada,Thailand,2016,6
+Canada,Tajikistan,2009,6
+Canada,Tajikistan,2015,6
+Canada,Turkmenistan,2010,2
+Canada,Turkmenistan,2012,6
+Canada,Trinidad and Tobago,2017,4
+Canada,Tunisia,2011,2
+Canada,Tunisia,2013,2
+Canada,Turkey,2011,4
+Canada,Turkey,2012,8
+Canada,Turkey,2013,16
+Canada,Turkey,2014,4
+Canada,Turkey,2015,4
+Canada,Turkey,2016,10
+Canada,Turkey,2017,8
+Canada,United Republic of Tanzania,2010,1
+Canada,United Republic of Tanzania,2011,7
+Canada,United Republic of Tanzania,2012,1
+Canada,United Republic of Tanzania,2013,1
+Canada,United Republic of Tanzania,2014,1
+Canada,United Republic of Tanzania,2015,8
+Canada,United Republic of Tanzania,2016,3
+Canada,United Republic of Tanzania,2017,6
+Canada,Uganda,2008,37
+Canada,Uganda,2010,12
+Canada,Uganda,2011,5
+Canada,Uganda,2012,21
+Canada,Uganda,2013,16
+Canada,Uganda,2014,13
+Canada,Uganda,2015,6
+Canada,Uganda,2016,9
+Canada,Uganda,2017,17
+Canada,Ukraine,2009,6
+Canada,Ukraine,2010,5
+Canada,Ukraine,2011,4
+Canada,Ukraine,2012,8
+Canada,Ukraine,2013,2
+Canada,Ukraine,2015,4
+Canada,Ukraine,2016,3
+Canada,Ukraine,2017,4
+Canada,Uruguay,2014,1
+Canada,United States of America,2010,6
+Canada,United States of America,2011,1
+Canada,United States of America,2012,1
+Canada,United States of America,2013,1
+Canada,United States of America,2015,3
+Canada,United States of America,2016,9
+Canada,United States of America,2017,13
+Canada,Uzbekistan,2008,19
+Canada,Uzbekistan,2009,11
+Canada,Uzbekistan,2010,87
+Canada,Uzbekistan,2011,36
+Canada,Uzbekistan,2012,14
+Canada,Uzbekistan,2014,1
+Canada,Uzbekistan,2015,5
+Canada,Uzbekistan,2017,4
+Canada,Various/unknown,2008,75
+Canada,Various/unknown,2009,134
+Canada,Various/unknown,2012,4
+Canada,Various/unknown,2013,27
+Canada,Various/unknown,2015,6
+Canada,Various/unknown,2016,57
+Canada,Venezuela,2010,1
+Canada,Venezuela ,2011,1
+Canada,Venezuela ,2013,1
+Canada,Vietnam,2008,12
+Canada,Vietnam,2009,33
+Canada,Vietnam,2010,24
+Canada,Vietnam,2011,75
+Canada,Vietnam,2012,3
+Canada,Vietnam,2014,27
+Canada,Vietnam,2015,16
+Canada,Vietnam,2017,30
+Canada,Yemen,2010,4
+Canada,Yemen,2011,9
+Canada,Yemen,2012,1
+Canada,Yemen,2013,11
+Canada,Yemen,2014,10
+Canada,Yemen,2015,8
+Canada,Yemen,2016,6
+Canada,Yemen,2017,7
+Canada,South Africa,2010,6
+Canada,South Africa,2011,1
+Canada,South Africa,2013,3
+Canada,South Africa,2014,3
+Canada,South Africa,2015,5
+Canada,South Africa,2016,10
+Canada,South Africa,2017,4
+Canada,Zambia,2013,2
+Canada,Zambia,2014,2
+Canada,Zimbabwe,2008,6
+Canada,Zimbabwe,2010,1
+Canada,Zimbabwe,2012,19
+Canada,Zimbabwe,2013,3
+Canada,Zimbabwe,2014,6
+Canada,Zimbabwe,2016,2
+Canada,Zimbabwe,2017,4
+Switzerland,Democratic Republic of the Congo,2014,7
+Switzerland,Democratic Republic of the Congo,2016,2
+Switzerland,Iraq,2014,2
+Switzerland,Iraq,2016,43
+Switzerland,Iraq,2017,65
+Switzerland,Jordan,2016,1
+Switzerland,Jordan,2017,10
+Switzerland,Lebanon,2016,2
+Switzerland,Somalia,2014,8
+Switzerland,Syria,2014,113
+Switzerland,Syria,2015,552
+Switzerland,Syria,2016,524
+Switzerland,Syria,2017,541
+Switzerland,Turkey,2017,6
+Switzerland,Various/unknown,2014,22
+Switzerland,Various/unknown,2015,89
+Switzerland,Various/unknown,2016,49
+Switzerland,Various/unknown,2017,41
+Chile,Argentina,2011,1
+Chile,Colombia,2008,45
+Chile,Colombia,2010,6
+Chile,Colombia,2011,15
+Chile,Colombia,2012,3
+Chile,Costa Rica,2011,3
+Chile,Ecuador,2011,1
+Chile,Palestinian,2008,116
+Chile,El Salvador,2011,3
+Chile,Syria,2017,66
+Czech Republic,Azerbaijan,2010,5
+Czech Republic,China,2014,4
+Czech Republic,Iran ,2010,3
+Czech Republic,Iraq,2016,32
+Czech Republic,Sri Lanka,2013,1
+Czech Republic,Sri Lanka,2014,1
+Czech Republic,Myanmar,2009,16
+Czech Republic,Malaysia,2010,16
+Czech Republic,Thailand,2010,23
+Czech Republic,Uzbekistan,2009,1
+Czech Republic,Uzbekistan,2010,1
+Germany,Afghanistan,2014,16
+Germany,China,2014,3
+Germany,Democratic Republic of the Congo,2012,1
+Germany,Eritrea,2012,36
+Germany,Eritrea,2015,200
+Germany,Eritrea,2016,20
+Germany,Eritrea,2017,14
+Germany,Ethiopia,2012,26
+Germany,Ethiopia,2014,1
+Germany,Ethiopia,2015,45
+Germany,Ethiopia,2016,4
+Germany,Ethiopia,2017,17
+Germany,Iran ,2010,37
+Germany,Iran ,2011,63
+Germany,Iran ,2013,116
+Germany,Iran ,2014,6
+Germany,Iran ,2017,4
+Germany,Iraq,2009,2069
+Germany,Iraq,2010,432
+Germany,Iraq,2012,132
+Germany,Iraq,2013,175
+Germany,Iraq,2014,103
+Germany,Iraq,2015,26
+Germany,Iraq,2017,9
+Germany,Sri Lanka,2014,59
+Germany,Nigeria,2012,2
+Germany,Pakistan,2012,5
+Germany,Sudan,2012,59
+Germany,Sudan,2014,2
+Germany,Sudan,2015,122
+Germany,Sudan,2017,117
+Germany,Somalia,2012,46
+Germany,Somalia,2014,31
+Germany,Somalia,2015,45
+Germany,Somalia,2017,8
+Germany,South Sudan,2014,1
+Germany,South Sudan,2017,14
+Germany,Stateless,2014,58
+Germany,Stateless,2015,33
+Germany,Syria,2013,2
+Germany,Syria,2015,9
+Germany,Syria,2016,1215
+Germany,Syria,2017,2830
+Germany,Chad,2017,4
+Germany,Uganda,2015,1
+Germany,Zimbabwe,2017,4
+Denmark,Afghanistan,2008,18
+Denmark,Afghanistan,2009,21
+Denmark,Afghanistan,2010,12
+Denmark,Afghanistan,2013,1
+Denmark,Afghanistan,2015,14
+Denmark,Azerbaijan,2012,1
+Denmark,Burundi,2009,23
+Denmark,Burundi,2010,2
+Denmark,Burundi,2011,2
+Denmark,Burundi,2013,1
+Denmark,Burundi,2015,2
+Denmark,Burundi,2016,8
+Denmark,Bhutan,2008,155
+Denmark,Bhutan,2009,155
+Denmark,Bhutan,2010,171
+Denmark,Bhutan,2011,4
+Denmark,Bhutan,2016,1
+Denmark,Central African Republic,2014,12
+Denmark,Central African Republic,2015,5
+Denmark,Central African Republic,2016,8
+Denmark,Ivory Coast,2009,7
+Denmark,Ivory Coast,2010,1
+Denmark,Ivory Coast,2011,1
+Denmark,Ivory Coast,2013,3
+Denmark,Ivory Coast,2014,1
+Denmark,Democratic Republic of the Congo,2008,122
+Denmark,Democratic Republic of the Congo,2009,139
+Denmark,Democratic Republic of the Congo,2010,100
+Denmark,Democratic Republic of the Congo,2011,154
+Denmark,Democratic Republic of the Congo,2012,2
+Denmark,Democratic Republic of the Congo,2013,142
+Denmark,Democratic Republic of the Congo,2015,255
+Denmark,Democratic Republic of the Congo,2016,24
+Denmark,Republic of Congo,2011,12
+Denmark,Republic of Congo,2014,31
+Denmark,Colombia,2011,2
+Denmark,Colombia,2012,94
+Denmark,Colombia,2013,129
+Denmark,Colombia,2014,101
+Denmark,Ecuador,2012,7
+Denmark,Ecuador,2014,5
+Denmark,Eritrea,2010,1
+Denmark,Eritrea,2011,29
+Denmark,Eritrea,2012,12
+Denmark,Eritrea,2013,17
+Denmark,Eritrea,2014,5
+Denmark,Estonia,2011,7
+Denmark,Ethiopia,2010,7
+Denmark,Ethiopia,2012,9
+Denmark,Ethiopia,2013,3
+Denmark,Ethiopia,2015,19
+Denmark,Iran ,2009,17
+Denmark,Iran ,2010,2
+Denmark,Iran ,2011,1
+Denmark,Iran ,2012,9
+Denmark,Iran ,2013,1
+Denmark,Iraq,2008,35
+Denmark,Iraq,2009,17
+Denmark,Iraq,2010,6
+Denmark,Iraq,2012,4
+Denmark,Iraq,2014,2
+Denmark,Iraq,2016,3
+Denmark,Jordan,2011,1
+Denmark,Cambodia,2008,1
+Denmark,Cambodia,2010,3
+Denmark,Cambodia,2014,3
+Denmark,Liberia,2009,15
+Denmark,Liberia,2010,9
+Denmark,Myanmar,2008,155
+Denmark,Myanmar,2009,5
+Denmark,Myanmar,2010,160
+Denmark,Myanmar,2011,140
+Denmark,Myanmar,2012,78
+Denmark,Myanmar,2016,7
+Denmark,Nigeria,2012,1
+Denmark,Pakistan,2015,3
+Denmark,Palestinian,2009,8
+Denmark,Palestinian,2011,3
+Denmark,Russia,2008,9
+Denmark,Russia,2010,4
+Denmark,Russia,2012,8
+Denmark,Russia,2013,1
+Denmark,Rwanda,2008,17
+Denmark,Rwanda,2010,5
+Denmark,Rwanda,2011,1
+Denmark,Rwanda,2012,7
+Denmark,Rwanda,2013,12
+Denmark,Rwanda,2015,15
+Denmark,Rwanda,2016,6
+Denmark,Sudan,2009,7
+Denmark,Sudan,2011,4
+Denmark,Sudan,2013,28
+Denmark,Sudan,2014,26
+Denmark,Sudan,2015,14
+Denmark,Sudan,2016,5
+Denmark,Sierra Leone,2009,6
+Denmark,Somalia,2008,1
+Denmark,Somalia,2009,13
+Denmark,Somalia,2010,7
+Denmark,Somalia,2011,11
+Denmark,Somalia,2012,69
+Denmark,Somalia,2013,57
+Denmark,Somalia,2014,23
+Denmark,Somalia,2015,12
+Denmark,Somalia,2016,9
+Denmark,South Sudan,2015,5
+Denmark,Stateless,2008,29
+Denmark,Stateless,2011,143
+Denmark,Stateless,2012,175
+Denmark,Stateless,2013,119
+Denmark,Stateless,2014,8
+Denmark,Stateless,2015,3
+Denmark,Stateless,2016,2
+Denmark,Syria,2013,1
+Denmark,Syria,2014,124
+Denmark,Syria,2015,244
+Denmark,Syria,2016,236
+Denmark,Syria,2017,5
+Denmark,Uganda,2011,1
+Denmark,Uganda,2015,1
+Denmark,Uzbekistan,2008,10
+Denmark,Vietnam,2010,5
+Denmark,Vietnam,2014,3
+Spain,Eritrea,2012,11
+Spain,Ethiopia,2012,35
+Spain,Sudan,2012,34
+Spain,Syria,2016,289
+Spain,Syria,2017,1071
+Estonia,Syria,2016,11
+Estonia,Syria,2017,19
+Finland,Afghanistan,2008,8
+Finland,Afghanistan,2009,24
+Finland,Afghanistan,2010,5
+Finland,Afghanistan,2011,109
+Finland,Afghanistan,2012,233
+Finland,Afghanistan,2013,254
+Finland,Afghanistan,2014,233
+Finland,Afghanistan,2015,128
+Finland,Afghanistan,2016,130
+Finland,Afghanistan,2017,51
+Finland,Armenia,2009,1
+Finland,Armenia,2011,3
+Finland,Burundi,2008,3
+Finland,Burundi,2009,10
+Finland,Burundi,2014,4
+Finland,Burundi,2015,1
+Finland,Burundi,2017,4
+Finland,Central African Republic,2015,1
+Finland,Central African Republic,2017,4
+Finland,China,2008,10
+Finland,China,2009,8
+Finland,China,2012,4
+Finland,China,2013,6
+Finland,Ivory Coast,2008,2
+Finland,Ivory Coast,2009,3
+Finland,Ivory Coast,2013,1
+Finland,Ivory Coast,2015,2
+Finland,Democratic Republic of the Congo,2008,123
+Finland,Democratic Republic of the Congo,2009,122
+Finland,Democratic Republic of the Congo,2010,168
+Finland,Democratic Republic of the Congo,2011,64
+Finland,Democratic Republic of the Congo,2012,229
+Finland,Democratic Republic of the Congo,2013,59
+Finland,Democratic Republic of the Congo,2014,189
+Finland,Democratic Republic of the Congo,2015,198
+Finland,Democratic Republic of the Congo,2016,205
+Finland,Democratic Republic of the Congo,2017,32
+Finland,Republic of Republic of Congo,2008,13
+Finland,Colombia,2015,6
+Finland,Colombia,2016,1
+Finland,Cuba,2009,3
+Finland,Cuba,2010,1
+Finland,Cuba,2014,1
+Finland,Ecuador,2015,1
+Finland,Egypt,2017,4
+Finland,Eritrea,2008,9
+Finland,Eritrea,2009,3
+Finland,Eritrea,2011,11
+Finland,Eritrea,2012,8
+Finland,Eritrea,2013,46
+Finland,Eritrea,2014,2
+Finland,Eritrea,2015,5
+Finland,Eritrea,2016,4
+Finland,Ethiopia,2011,16
+Finland,Ethiopia,2012,24
+Finland,Ethiopia,2013,1
+Finland,Ethiopia,2014,13
+Finland,Ethiopia,2015,4
+Finland,Georgia,2012,3
+Finland,Iran,2008,102
+Finland,Iran,2009,11
+Finland,Iran,2010,4
+Finland,Iran,2013,86
+Finland,Iran,2014,85
+Finland,Iran,2015,22
+Finland,Iran,2017,4
+Finland,Iraq,2008,144
+Finland,Iraq,2009,295
+Finland,Iraq,2010,222
+Finland,Iraq,2011,186
+Finland,Iraq,2012,60
+Finland,Iraq,2013,16
+Finland,Iraq,2014,11
+Finland,Iraq,2015,23
+Finland,Iraq,2017,4
+Finland,Jordan,2013,1
+Finland,Kyrgyzstan,2010,5
+Finland,Liberia,2008,5
+Finland,Liberia,2009,1
+Finland,Sri Lanka,2008,1
+Finland,Sri Lanka,2009,18
+Finland,Sri Lanka,2010,4
+Finland,Sri Lanka,2011,25
+Finland,Sri Lanka,2012,23
+Finland,Sri Lanka,2013,18
+Finland,Sri Lanka,2014,1
+Finland,Mali,2017,4
+Finland,Myanmar,2008,276
+Finland,Myanmar,2009,196
+Finland,Myanmar,2010,118
+Finland,Myanmar,2011,143
+Finland,Myanmar,2012,107
+Finland,Myanmar,2013,105
+Finland,Mauritania,2011,8
+Finland,Nigeria,2015,1
+Finland,Norway,2015,1
+Finland,Nepal,2008,1
+Finland,Pakistan,2009,5
+Finland,Pakistan,2011,6
+Finland,Pakistan,2012,22
+Finland,Pakistan,2013,6
+Finland,Pakistan,2017,4
+Finland,North Korea,2014,2
+Finland,Palestinian,2010,9
+Finland,Palestinian,2011,4
+Finland,Russia,2008,17
+Finland,Russia,2009,5
+Finland,Russia,2013,2
+Finland,Russia,2016,1
+Finland,Rwanda,2008,15
+Finland,Rwanda,2013,1
+Finland,Rwanda,2014,1
+Finland,Rwanda,2015,3
+Finland,Rwanda,2016,1
+Finland,Sudan,2008,16
+Finland,Sudan,2009,1
+Finland,Sudan,2011,6
+Finland,Sudan,2012,7
+Finland,Sudan,2014,75
+Finland,Sudan,2015,204
+Finland,Sudan,2016,29
+Finland,Sudan,2017,8
+Finland,Sierra Leone,2010,3
+Finland,Somalia,2008,1
+Finland,Somalia,2009,11
+Finland,Somalia,2010,2
+Finland,Somalia,2011,2
+Finland,Somalia,2012,10
+Finland,Somalia,2013,57
+Finland,Somalia,2014,18
+Finland,Somalia,2015,25
+Finland,Somalia,2016,14
+Finland,Somalia,2017,8
+Finland,South Sudan,2016,1
+Finland,Stateless,2008,3
+Finland,Stateless,2009,3
+Finland,Stateless,2013,14
+Finland,Stateless,2014,8
+Finland,Stateless,2016,9
+Finland,Syria,2012,1
+Finland,Syria,2014,431
+Finland,Syria,2015,376
+Finland,Syria,2016,546
+Finland,Syria,2017,972
+Finland,Chad,2011,1
+Finland,Turkey,2009,3
+Finland,Turkey,2017,4
+Finland,Uzbekistan,2016,2
+Finland,Various/unknown,2009,1
+Finland,Various/unknown,2013,1
+Finland,Various/unknown,2014,15
+Finland,Various/unknown,2015,5
+Finland,South Africa,2015,1
+France,Afghanistan,2011,1
+France,Afghanistan,2012,1
+France,Afghanistan,2013,16
+France,Afghanistan,2014,18
+France,Afghanistan,2016,5
+France,Afghanistan,2017,4
+France,Angola,2012,2
+France,Angola,2013,2
+France,Burundi,2013,2
+France,Burundi,2014,1
+France,Burundi,2017,6
+France,Central African Republic,2011,1
+France,Central African Republic,2013,1
+France,Central African Republic,2014,1
+France,Central African Republic,2016,5
+France,Central African Republic,2017,19
+France,Ivory Coast,2012,3
+France,Ivory Coast,2013,1
+France,Ivory Coast,2014,4
+France,Ivory Coast,2016,5
+France,Ivory Coast,2017,4
+France,Cameroon,2017,4
+France,Democratic Republic of the Congo,2008,1
+France,Democratic Republic of the Congo,2011,20
+France,Democratic Republic of the Congo,2012,5
+France,Democratic Republic of the Congo,2013,20
+France,Democratic Republic of the Congo,2014,12
+France,Democratic Republic of the Congo,2016,25
+France,Democratic Republic of the Congo,2017,22
+France,Republic of Republic of Congo,2011,4
+France,Republic of Republic of Congo,2012,2
+France,Republic of Republic of Congo,2014,1
+France,Republic of Republic of Congo,2016,5
+France,Republic of Republic of Congo,2017,4
+France,Colombia,2012,1
+France,Cuba,2013,1
+France,Eritrea,2012,1
+France,Eritrea,2013,1
+France,Eritrea,2016,20
+France,Eritrea,2017,40
+France,Ethiopia,2011,8
+France,Ethiopia,2012,7
+France,Ethiopia,2013,12
+France,Ethiopia,2014,4
+France,Ethiopia,2016,10
+France,Ethiopia,2017,39
+France,Guinea,2013,1
+France,Haiti,2012,1
+France,Iran ,2011,1
+France,Iran ,2013,1
+France,Iran ,2014,1
+France,Iran ,2016,10
+France,Iran ,2017,4
+France,Iraq,2011,61
+France,Iraq,2012,11
+France,Iraq,2013,1
+France,Iraq,2014,2
+France,Iraq,2016,65
+France,Iraq,2017,31
+France,Kazakhstan,2014,1
+France,Cambodia,2012,2
+France,Cambodia,2016,5
+France,Laos,2012,1
+France,Liberia,2008,1
+France,Sri Lanka,2013,6
+France,Sri Lanka,2014,3
+France,Sri Lanka,2016,20
+France,Mali,2017,4
+France,Mauritania,2017,4
+France,Nigeria,2017,9
+France,Nepal,2014,1
+France,Pakistan,2012,6
+France,Pakistan,2013,10
+France,Peru,2012,1
+France,Palestinian,2008,12
+France,Palestinian,2011,12
+France,Palestinian,2012,4
+France,Palestinian,2014,3
+France,Palestinian,2016,10
+France,Palestinian,2017,23
+France,Russia,2008,23
+France,Russia,2012,3
+France,Russia,2013,4
+France,Russia,2014,3
+France,Rwanda,2012,2
+France,Rwanda,2013,4
+France,Rwanda,2014,7
+France,Rwanda,2016,10
+France,Rwanda,2017,4
+France,Sudan,2011,1
+France,Sudan,2012,1
+France,Sudan,2013,2
+France,Sudan,2014,2
+France,Sudan,2016,5
+France,Sudan,2017,25
+France,Somalia,2011,7
+France,Somalia,2012,5
+France,Somalia,2013,2
+France,Somalia,2014,5
+France,Somalia,2016,20
+France,Somalia,2017,4
+France,South Sudan,2017,9
+France,Syria,2014,40
+France,Syria,2016,1190
+France,Syria,2017,2279
+France,Chad,2014,1
+France,Turkey,2017,10
+France,United Republic of Tanzania,2013,1
+France,Uzbekistan,2012,2
+France,Uzbekistan,2013,1
+France,Various/unknown,2010,407
+France,Vietnam,2012,1
+France,Vietnam,2016,5
+United Kingdom,Afghanistan,2012,8
+United Kingdom,Afghanistan,2015,3
+United Kingdom,Afghanistan,2017,35
+United Kingdom,Burundi,2016,6
+United Kingdom,Bhutan,2012,146
+United Kingdom,Bhutan,2013,101
+United Kingdom,Democratic Republic of the Congo,2012,184
+United Kingdom,Democratic Republic of the Congo,2014,202
+United Kingdom,Democratic Republic of the Congo,2015,134
+United Kingdom,Republic of Republic of Congo,2013,208
+United Kingdom,Republic of Republic of Congo,2016,219
+United Kingdom,Republic of Republic of Congo,2017,290
+United Kingdom,Djibouti,2017,4
+United Kingdom,Eritrea,2012,9
+United Kingdom,Eritrea,2013,4
+United Kingdom,Eritrea,2014,3
+United Kingdom,Eritrea,2015,18
+United Kingdom,Eritrea,2016,34
+United Kingdom,Eritrea,2017,15
+United Kingdom,Ethiopia,2012,349
+United Kingdom,Ethiopia,2013,34
+United Kingdom,Ethiopia,2014,79
+United Kingdom,Ethiopia,2015,156
+United Kingdom,Ethiopia,2016,140
+United Kingdom,Ethiopia,2017,45
+United Kingdom,Iran ,2012,2
+United Kingdom,Iran ,2013,5
+United Kingdom,Iran ,2017,10
+United Kingdom,Iraq,2012,96
+United Kingdom,Iraq,2013,132
+United Kingdom,Iraq,2014,113
+United Kingdom,Iraq,2015,106
+United Kingdom,Iraq,2016,138
+United Kingdom,Iraq,2017,339
+United Kingdom,Nigeria,2017,4
+United Kingdom,Pakistan,2013,1
+United Kingdom,Pakistan,2016,2
+United Kingdom,Pakistan,2017,6
+United Kingdom,Palestinian,2014,1
+United Kingdom,Palestinian,2015,1
+United Kingdom,Palestinian,2017,14
+United Kingdom,Rwanda,2013,1
+United Kingdom,Rwanda,2016,1
+United Kingdom,Rwanda,2017,4
+United Kingdom,Sudan,2012,89
+United Kingdom,Sudan,2013,158
+United Kingdom,Sudan,2014,4
+United Kingdom,Sudan,2015,72
+United Kingdom,Sudan,2016,111
+United Kingdom,Sudan,2017,282
+United Kingdom,Somalia,2012,156
+United Kingdom,Somalia,2013,321
+United Kingdom,Somalia,2014,240
+United Kingdom,Somalia,2015,175
+United Kingdom,Somalia,2016,121
+United Kingdom,Somalia,2017,272
+United Kingdom,South Sudan,2016,39
+United Kingdom,South Sudan,2017,36
+United Kingdom,Stateless,2013,1
+United Kingdom,Stateless,2017,5
+United Kingdom,Syria,2014,143
+United Kingdom,Syria,2015,1199
+United Kingdom,Syria,2016,4369
+United Kingdom,Syria,2017,4850
+United Kingdom,Uganda,2016,1
+United Kingdom,Uganda,2017,4
+United Kingdom,Various/unknown,2008,722
+United Kingdom,Various/unknown,2009,955
+United Kingdom,Various/unknown,2010,715
+United Kingdom,Various/unknown,2011,454
+United Kingdom,Various/unknown,2014,2
+United Kingdom,Various/unknown,2017,4
+United Kingdom,Yemen,2017,6
+Croatia,Syria,2017,40
+Hungary,Iran ,2012,1
+Hungary,Syria,2013,1
+Hungary,Syria,2016,15
+Ireland,Afghanistan,2009,1
+Ireland,Afghanistan,2013,31
+Ireland,China,2008,1
+Ireland,Democratic Republic of the Congo,2009,84
+Ireland,Democratic Republic of the Congo,2012,20
+Ireland,Democratic Republic of the Congo,2013,31
+Ireland,Democratic Republic of the Congo,2014,7
+Ireland,Republic of Republic of Congo,2012,1
+Ireland,Cuba,2008,12
+Ireland,Cuba,2009,3
+Ireland,Egypt,2012,5
+Ireland,Eritrea,2011,9
+Ireland,Eritrea,2012,1
+Ireland,Ethiopia,2008,3
+Ireland,Ethiopia,2011,6
+Ireland,Ethiopia,2012,3
+Ireland,Iran ,2008,6
+Ireland,Iran,2009,8
+Ireland,Iran ,2012,5
+Ireland,Iraq,2008,5
+Ireland,Iraq,2009,7
+Ireland,Iraq,2010,16
+Ireland,Iraq,2011,6
+Ireland,Iraq,2015,27
+Ireland,Iraq,2016,11
+Ireland,Iraq,2017,12
+Ireland,Liberia,2012,4
+Ireland,Morocco,2011,1
+Ireland,Myanmar,2009,82
+Ireland,Myanmar,2010,3
+Ireland,Palestinian,2009,4
+Ireland,Palestinian,2013,4
+Ireland,Palestinian,2016,10
+Ireland,Russia,2008,2
+Ireland,Sudan,2008,71
+Ireland,Sudan,2011,23
+Ireland,Sudan,2013,5
+Ireland,Somalia,2013,5
+Ireland,Stateless,2009,3
+Ireland,Syria,2008,1
+Ireland,Syria,2010,1
+Ireland,Syria,2014,89
+Ireland,Syria,2015,149
+Ireland,Syria,2016,335
+Ireland,Syria,2017,261
+Iceland,Afghanistan,2012,9
+Iceland,Colombia,2010,6
+Iceland,Iraq,2008,29
+Iceland,Sri Lanka,2008,2
+Iceland,Syria,2015,13
+Iceland,Syria,2016,56
+Iceland,Syria,2017,48
+Iceland,Various/unknown,2015,1
+Italy,Eritrea,2016,47
+Italy,Eritrea,2017,77
+Italy,Ethiopia,2016,1
+Italy,Ethiopia,2017,20
+Italy,Iraq,2016,7
+Italy,Iraq,2017,4
+Italy,Jordan,2017,4
+Italy,Lebanon,2017,4
+Italy,Palestinian,2017,50
+Italy,Syria,2015,96
+Italy,Syria,2016,482
+Italy,Syria,2017,832
+Japan,Myanmar,2010,27
+Japan,Myanmar,2011,18
+Japan,Myanmar,2013,18
+Japan,Myanmar,2014,23
+Japan,Myanmar,2015,19
+Japan,Myanmar,2016,18
+Japan,Myanmar,2017,29
+Cambodia,Iran,2015,3
+Cambodia,Myanmar,2015,2
+Cambodia,Syria,2016,1
+South Korea,Myanmar,2015,22
+South Korea,Myanmar,2016,41
+South Korea,Myanmar,2017,30
+Liechtenstein,Eritrea,2012,1
+Liechtenstein,Syria,2014,5
+Liechtenstein,Syria,2015,18
+Lithuania,Stateless,2017,4
+Lithuania,Syria,2016,25
+Lithuania,Syria,2017,57
+Luxembourg,Iran,2017,4
+Luxembourg,Iraq,2009,28
+Luxembourg,Iraq,2017,4
+Luxembourg,Stateless,2017,4
+Luxembourg,Syria,2014,28
+Luxembourg,Syria,2015,46
+Luxembourg,Syria,2016,52
+Luxembourg,Syria,2017,177
+Latvia,Syria,2016,6
+Latvia,Syria,2017,40
+Monaco,Syria,2016,4
+Malta,Various/unknown,2017,17
+Nicaragua,El Salvador,2009,3
+Netherlands,Afghanistan,2009,2
+Netherlands,Afghanistan,2010,10
+Netherlands,Afghanistan,2012,2
+Netherlands,Afghanistan,2013,2
+Netherlands,Azerbaijan,2008,3
+Netherlands,Azerbaijan,2009,4
+Netherlands,Azerbaijan,2010,1
+Netherlands,Azerbaijan,2012,1
+Netherlands,Azerbaijan,2014,3
+Netherlands,Burundi,2008,47
+Netherlands,Burundi,2009,1
+Netherlands,Burundi,2014,1
+Netherlands,Belarus,2011,1
+Netherlands,Bhutan,2008,24
+Netherlands,Bhutan,2009,42
+Netherlands,Bhutan,2010,46
+Netherlands,Bhutan,2011,53
+Netherlands,Bhutan,2016,2
+Netherlands,Central African Republic,2016,4
+Netherlands,Central African Republic,2017,5
+Netherlands,China,2008,5
+Netherlands,China,2009,3
+Netherlands,China,2010,5
+Netherlands,China,2011,3
+Netherlands,China,2012,1
+Netherlands,China,2013,3
+Netherlands,China,2014,19
+Netherlands,Ivory Coast,2008,3
+Netherlands,Ivory Coast,2011,3
+Netherlands,Democratic Republic of the Congo,2008,54
+Netherlands,Democratic Republic of the Congo,2009,12
+Netherlands,Democratic Republic of the Congo,2011,13
+Netherlands,Democratic Republic of the Congo,2012,23
+Netherlands,Democratic Republic of the Congo,2014,27
+Netherlands,Democratic Republic of the Congo,2016,39
+Netherlands,Republic of Republic of Congo,2008,25
+Netherlands,Republic of Republic of Congo,2009,6
+Netherlands,Republic of Republic of Congo,2010,2
+Netherlands,Republic of Republic of Congo,2011,19
+Netherlands,Republic of Republic of Congo,2012,19
+Netherlands,Republic of Republic of Congo,2013,84
+Netherlands,Republic of Republic of Congo,2014,13
+Netherlands,Colombia,2008,8
+Netherlands,Colombia,2009,6
+Netherlands,Colombia,2012,10
+Netherlands,Colombia,2013,1
+Netherlands,Cuba,2010,2
+Netherlands,Cuba,2011,1
+Netherlands,Cuba,2012,5
+Netherlands,Cuba,2014,9
+Netherlands,Egypt,2011,1
+Netherlands,Eritrea,2008,26
+Netherlands,Eritrea,2009,17
+Netherlands,Eritrea,2010,33
+Netherlands,Eritrea,2011,73
+Netherlands,Eritrea,2012,38
+Netherlands,Eritrea,2013,63
+Netherlands,Eritrea,2014,189
+Netherlands,Eritrea,2016,6
+Netherlands,Eritrea,2017,6
+Netherlands,Ethiopia,2008,71
+Netherlands,Ethiopia,2009,46
+Netherlands,Ethiopia,2010,3
+Netherlands,Ethiopia,2011,85
+Netherlands,Ethiopia,2012,45
+Netherlands,Ethiopia,2013,3
+Netherlands,Ethiopia,2014,66
+Netherlands,Ethiopia,2016,38
+Netherlands,Ghana,2016,1
+Netherlands,Guinea,2010,1
+Netherlands,Gambia,2008,4
+Netherlands,Iran,2008,15
+Netherlands,Iran,2009,4
+Netherlands,Iran,2010,8
+Netherlands,Iran,2011,19
+Netherlands,Iran,2012,7
+Netherlands,Iran,2014,7
+Netherlands,Iran,2016,2
+Netherlands,Iraq,2008,164
+Netherlands,Iraq,2009,92
+Netherlands,Iraq,2010,125
+Netherlands,Iraq,2011,78
+Netherlands,Iraq,2012,99
+Netherlands,Iraq,2013,39
+Netherlands,Iraq,2014,44
+Netherlands,Iraq,2016,1
+Netherlands,Iraq,2017,6
+Netherlands,Kazakhstan,2009,6
+Netherlands,Kenya,2014,2
+Netherlands,Kyrgyzstan,2012,5
+Netherlands,Cambodia,2009,5
+Netherlands,Cambodia,2010,12
+Netherlands,Cambodia,2014,13
+Netherlands,Laos,2010,33
+Netherlands,Laos,2013,1
+Netherlands,Lebanon,2016,1
+Netherlands,Liberia,2008,2
+Netherlands,Liberia,2009,2
+Netherlands,Libya,2010,1
+Netherlands,Sri Lanka,2008,16
+Netherlands,Sri Lanka,2009,8
+Netherlands,Sri Lanka,2011,42
+Netherlands,Sri Lanka,2012,23
+Netherlands,Sri Lanka,2013,14
+Netherlands,Sri Lanka,2014,15
+Netherlands,Macedonia,2010,1
+Netherlands,Myanmar,2008,135
+Netherlands,Myanmar,2009,3
+Netherlands,Myanmar,2010,45
+Netherlands,Myanmar,2011,80
+Netherlands,Myanmar,2012,94
+Netherlands,Myanmar,2013,30
+Netherlands,Myanmar,2014,2
+Netherlands,Mongolia,2010,1
+Netherlands,Namibia,2010,3
+Netherlands,Nepal,2008,6
+Netherlands,Pakistan,2012,31
+Netherlands,Pakistan,2013,34
+Netherlands,Pakistan,2014,35
+Netherlands,Pakistan,2016,2
+Netherlands,Peru,2010,3
+Netherlands,Palestinian,2011,6
+Netherlands,Palestinian,2014,1
+Netherlands,Russia,2008,7
+Netherlands,Russia,2011,1
+Netherlands,Russia,2013,1
+Netherlands,Russia,2014,1
+Netherlands,Rwanda,2008,4
+Netherlands,Rwanda,2009,11
+Netherlands,Rwanda,2010,7
+Netherlands,Rwanda,2011,4
+Netherlands,Rwanda,2012,3
+Netherlands,Rwanda,2014,1
+Netherlands,Sudan,2009,7
+Netherlands,Sudan,2011,4
+Netherlands,Sudan,2012,9
+Netherlands,Sudan,2013,11
+Netherlands,Senegal,2010,7
+Netherlands,Senegal,2011,1
+Netherlands,Senegal,2012,1
+Netherlands,Senegal,2013,2
+Netherlands,Sierra Leone,2012,2
+Netherlands,Somalia,2008,2
+Netherlands,Somalia,2009,17
+Netherlands,Somalia,2011,3
+Netherlands,Somalia,2012,3
+Netherlands,Somalia,2013,2
+Netherlands,Somalia,2014,1
+Netherlands,Somalia,2016,1
+Netherlands,South Sudan,2014,8
+Netherlands,South Sudan,2016,2
+Netherlands,Stateless,2008,44
+Netherlands,Stateless,2009,11
+Netherlands,Stateless,2010,5
+Netherlands,Stateless,2011,1
+Netherlands,Stateless,2012,1
+Netherlands,Stateless,2014,9
+Netherlands,Syria,2011,1
+Netherlands,Syria,2013,14
+Netherlands,Syria,2014,243
+Netherlands,Syria,2016,601
+Netherlands,Syria,2017,2183
+Netherlands,Uganda,2008,3
+Netherlands,Uganda,2010,2
+Netherlands,Uganda,2011,1
+Netherlands,Uganda,2012,4
+Netherlands,Uganda,2013,3
+Netherlands,Uganda,2014,6
+Netherlands,Uzbekistan,2008,17
+Netherlands,Uzbekistan,2009,5
+Netherlands,Uzbekistan,2010,6
+Netherlands,Uzbekistan,2013,4
+Netherlands,Various/unknown,2008,7
+Netherlands,Various/unknown,2009,53
+Netherlands,Various/unknown,2010,69
+Netherlands,Various/unknown,2011,45
+Netherlands,Various/unknown,2012,2
+Netherlands,Various/unknown,2014,68
+Netherlands,Various/unknown,2017,65
+Netherlands,Venezuela,2012,1
+Netherlands,Vietnam,2009,3
+Netherlands,Vietnam,2014,8
+Netherlands,Yemen,2008,1
+Netherlands,Yemen,2009,3
+Norway,Afghanistan,2008,8
+Norway,Afghanistan,2009,177
+Norway,Afghanistan,2010,24
+Norway,Afghanistan,2011,165
+Norway,Afghanistan,2012,203
+Norway,Afghanistan,2013,249
+Norway,Afghanistan,2014,26
+Norway,Afghanistan,2015,347
+Norway,Afghanistan,2016,326
+Norway,Afghanistan,2017,14
+Norway,Angola,2011,2
+Norway,Azerbaijan,2010,4
+Norway,Azerbaijan,2014,1
+Norway,Azerbaijan,2015,5
+Norway,Azerbaijan,2016,3
+Norway,Burundi,2008,5
+Norway,Burundi,2010,1
+Norway,Burundi,2011,30
+Norway,Burundi,2013,7
+Norway,Burundi,2015,9
+Norway,Burundi,2016,4
+Norway,Burundi,2017,4
+Norway,Bangladesh,2010,1
+Norway,Bangladesh,2011,3
+Norway,Bangladesh,2015,4
+Norway,Bangladesh,2016,4
+Norway,Bangladesh,2017,4
+Norway,Bhutan,2008,23
+Norway,Bhutan,2009,300
+Norway,Bhutan,2010,49
+Norway,Bhutan,2012,169
+Norway,Bhutan,2014,6
+Norway,Bhutan,2015,5
+Norway,Bhutan,2016,4
+Norway,Central African Republic,2011,2
+Norway,Central African Republic,2012,2
+Norway,Central African Republic,2017,11
+Norway,China,2009,6
+Norway,Ivory Coast,2011,5
+Norway,Cameroon,2010,2
+Norway,Democratic Republic of the Congo,2008,16
+Norway,Democratic Republic of the Congo,2011,38
+Norway,Democratic Republic of the Congo,2012,30
+Norway,Democratic Republic of the Congo,2015,195
+Norway,Democratic Republic of the Congo,2016,4
+Norway,Democratic Republic of the Congo,2017,49
+Norway,Republic of Republic of Congo,2009,37
+Norway,Republic of Republic of Congo,2010,32
+Norway,Republic of Republic of Congo,2013,200
+Norway,Republic of Republic of Congo,2014,78
+Norway,Colombia,2008,5
+Norway,Colombia,2011,1
+Norway,Colombia,2013,65
+Norway,Cabo Verde,2012,3
+Norway,Cuba,2010,3
+Norway,Djibouti,2014,1
+Norway,Ecuador,2013,10
+Norway,Egypt,2015,3
+Norway,Egypt,2017,4
+Norway,Eritrea,2008,2
+Norway,Eritrea,2009,121
+Norway,Eritrea,2010,308
+Norway,Eritrea,2011,419
+Norway,Eritrea,2012,262
+Norway,Eritrea,2013,37
+Norway,Eritrea,2014,203
+Norway,Eritrea,2015,15
+Norway,Eritrea,2016,7
+Norway,Eritrea,2017,7
+Norway,Ethiopia,2008,4
+Norway,Ethiopia,2009,80
+Norway,Ethiopia,2010,20
+Norway,Ethiopia,2011,22
+Norway,Ethiopia,2012,18
+Norway,Ethiopia,2013,15
+Norway,Ethiopia,2014,6
+Norway,Ethiopia,2015,10
+Norway,Ethiopia,2016,3
+Norway,Ethiopia,2017,4
+Norway,Guinea,2013,1
+Norway,Equatorial Guinea,2012,1
+Norway,India,2009,1
+Norway,Iran,2008,18
+Norway,Iran,2009,2
+Norway,Iran,2010,142
+Norway,Iran,2011,144
+Norway,Iran,2012,132
+Norway,Iran,2013,121
+Norway,Iran,2014,21
+Norway,Iran,2015,1
+Norway,Iran,2016,19
+Norway,Iran,2017,4
+Norway,Iraq,2008,152
+Norway,Iraq,2009,65
+Norway,Iraq,2010,16
+Norway,Iraq,2011,1
+Norway,Iraq,2012,8
+Norway,Iraq,2014,19
+Norway,Iraq,2015,4
+Norway,Iraq,2017,10
+Norway,Israel,2008,1
+Norway,Jordan,2009,6
+Norway,Jordan,2010,2
+Norway,Jordan,2016,1
+Norway,Kenya,2014,1
+Norway,Kyrgyzstan,2010,2
+Norway,Cambodia,2009,7
+Norway,Lebanon,2016,1
+Norway,Lebanon,2017,4
+Norway,Liberia,2008,4
+Norway,Liberia,2011,3
+Norway,Libya,2014,8
+Norway,Libya,2015,1
+Norway,Libya,2017,4
+Norway,Sri Lanka,2008,43
+Norway,Sri Lanka,2009,9
+Norway,Sri Lanka,2010,8
+Norway,Sri Lanka,2011,4
+Norway,Morocco,2008,2
+Norway,Mali,2011,2
+Norway,Myanmar,2008,363
+Norway,Myanmar,2009,326
+Norway,Myanmar,2010,248
+Norway,Myanmar,2011,155
+Norway,Myanmar,2012,171
+Norway,Myanmar,2013,13
+Norway,Myanmar,2015,3
+Norway,Myanmar,2016,1
+Norway,Myanmar,2017,6
+Norway,Mongolia,2009,2
+Norway,Nigeria,2011,2
+Norway,Nepal,2013,1
+Norway,Pakistan,2009,1
+Norway,Philippines,2008,9
+Norway,Russia,2017,4
+Norway,Rwanda,2008,1
+Norway,Rwanda,2009,5
+Norway,Rwanda,2010,5
+Norway,Rwanda,2011,13
+Norway,Rwanda,2013,6
+Norway,Rwanda,2014,7
+Norway,Rwanda,2015,10
+Norway,Sudan,2009,8
+Norway,Sudan,2010,3
+Norway,Sudan,2011,56
+Norway,Sudan,2012,61
+Norway,Sudan,2013,3
+Norway,Sudan,2014,13
+Norway,Sudan,2015,28
+Norway,Sudan,2016,8
+Norway,Sudan,2017,10
+Norway,Somalia,2008,21
+Norway,Somalia,2009,9
+Norway,Somalia,2010,73
+Norway,Somalia,2011,190
+Norway,Somalia,2012,165
+Norway,Somalia,2013,212
+Norway,Somalia,2014,97
+Norway,Somalia,2015,33
+Norway,Somalia,2017,13
+Norway,South Sudan,2016,4
+Norway,Stateless,2008,56
+Norway,Stateless,2009,225
+Norway,Stateless,2010,151
+Norway,Stateless,2011,13
+Norway,Stateless,2012,1
+Norway,Stateless,2013,4
+Norway,Stateless,2014,12
+Norway,Stateless,2015,24
+Norway,Stateless,2017,12
+Norway,Syria,2010,2
+Norway,Syria,2012,1
+Norway,Syria,2013,2
+Norway,Syria,2014,785
+Norway,Syria,2015,1684
+Norway,Syria,2016,2902
+Norway,Syria,2017,2667
+Norway,Thailand,2008,1
+Norway,Thailand,2009,2
+Norway,Turkey,2010,1
+Norway,Uganda,2013,1
+Norway,Uganda,2014,2
+Norway,Uganda,2015,1
+Norway,Uganda,2017,4
+Norway,United States of America,2011,1
+Norway,Uzbekistan,2008,1
+Norway,Vietnam,2008,5
+Norway,Vietnam,2009,2
+Norway,Vietnam,2011,1
+Norway,Vietnam,2013,1
+Norway,Yemen,2012,1
+Norway,Yemen,2017,4
+Norway,Zambia,2015,1
+Norway,Zimbabwe,2008,1
+Norway,Zimbabwe,2011,1
+New Zealand,Afghanistan,2008,42
+New Zealand,Afghanistan,2009,47
+New Zealand,Afghanistan,2010,12
+New Zealand,Afghanistan,2011,5
+New Zealand,Afghanistan,2012,16
+New Zealand,Afghanistan,2013,127
+New Zealand,Afghanistan,2014,104
+New Zealand,Afghanistan,2015,172
+New Zealand,Afghanistan,2016,7
+New Zealand,Afghanistan,2017,131
+New Zealand,Armenia,2008,6
+New Zealand,Burundi,2008,6
+New Zealand,Burundi,2009,36
+New Zealand,Burundi,2010,12
+New Zealand,Burundi,2011,8
+New Zealand,Bangladesh,2016,14
+New Zealand,Bahrain,2016,4
+New Zealand,Brazil,2016,6
+New Zealand,Bhutan,2008,128
+New Zealand,Bhutan,2009,170
+New Zealand,Bhutan,2010,199
+New Zealand,Bhutan,2011,92
+New Zealand,Bhutan,2012,120
+New Zealand,Bhutan,2013,147
+New Zealand,Bhutan,2014,77
+New Zealand,Bhutan,2015,53
+New Zealand,Bhutan,2017,26
+New Zealand,China,2008,1
+New Zealand,China,2009,7
+New Zealand,China,2013,5
+New Zealand,China,2014,1
+New Zealand,China,2016,64
+New Zealand,China,2017,4
+New Zealand,Cameroon,2016,1
+New Zealand,Democratic Republic of the Congo,2008,47
+New Zealand,Democratic Republic of the Congo,2009,62
+New Zealand,Democratic Republic of the Congo,2010,22
+New Zealand,Democratic Republic of the Congo,2011,8
+New Zealand,Democratic Republic of the Congo,2012,3
+New Zealand,Democratic Republic of the Congo,2013,5
+New Zealand,Democratic Republic of the Congo,2014,4
+New Zealand,Democratic Republic of the Congo,2015,5
+New Zealand,Democratic Republic of the Congo,2016,2
+New Zealand,Democratic Republic of the Congo,2017,8
+New Zealand,Republic of Congo,2009,1
+New Zealand,Republic of Congo,2010,5
+New Zealand,Republic of Congo,2011,4
+New Zealand,Colombia,2008,16
+New Zealand,Colombia,2009,40
+New Zealand,Colombia,2010,93
+New Zealand,Colombia,2011,105
+New Zealand,Colombia,2012,67
+New Zealand,Colombia,2013,47
+New Zealand,Colombia,2014,166
+New Zealand,Colombia,2015,106
+New Zealand,Colombia,2016,8
+New Zealand,Colombia,2017,119
+New Zealand,Czech Republic,2016,4
+New Zealand,Germany,2016,1
+New Zealand,Djibouti,2008,3
+New Zealand,Ecuador,2010,9
+New Zealand,Ecuador,2011,20
+New Zealand,Ecuador,2012,10
+New Zealand,Ecuador,2013,9
+New Zealand,Ecuador,2014,30
+New Zealand,Ecuador,2015,7
+New Zealand,Ecuador,2017,12
+New Zealand,Egypt,2015,8
+New Zealand,Egypt,2016,2
+New Zealand,Eritrea,2008,124
+New Zealand,Eritrea,2009,18
+New Zealand,Eritrea,2010,12
+New Zealand,Eritrea,2011,1
+New Zealand,Eritrea,2012,1
+New Zealand,Eritrea,2013,21
+New Zealand,Eritrea,2014,12
+New Zealand,Eritrea,2015,3
+New Zealand,Eritrea,2016,1
+New Zealand,Eritrea,2017,4
+New Zealand,Ethiopia,2008,9
+New Zealand,Ethiopia,2009,20
+New Zealand,Ethiopia,2010,14
+New Zealand,Ethiopia,2011,1
+New Zealand,Ethiopia,2012,7
+New Zealand,Ethiopia,2013,2
+New Zealand,Ethiopia,2015,6
+New Zealand,Ethiopia,2016,3
+New Zealand,Ethiopia,2017,4
+New Zealand,Finland,2016,1
+New Zealand,Fiji,2016,12
+New Zealand,United Kingdom,2016,1
+New Zealand,Georgia,2016,4
+New Zealand,Ghana,2016,2
+New Zealand,Gambia,2016,1
+New Zealand,Hungary,2016,12
+New Zealand,Indonesia,2008,4
+New Zealand,Indonesia,2009,1
+New Zealand,Indonesia,2013,2
+New Zealand,Indonesia,2014,1
+New Zealand,Indonesia,2016,5
+New Zealand,Indonesia,2017,4
+New Zealand,India,2008,1
+New Zealand,India,2014,1
+New Zealand,India,2015,1
+New Zealand,India,2016,31
+New Zealand,Iran,2008,11
+New Zealand,Iran,2009,13
+New Zealand,Iran,2010,1
+New Zealand,Iran,2013,5
+New Zealand,Iran,2014,8
+New Zealand,Iran,2015,1
+New Zealand,Iran,2016,15
+New Zealand,Iran,2017,39
+New Zealand,Iraq,2008,182
+New Zealand,Iraq,2009,41
+New Zealand,Iraq,2010,12
+New Zealand,Iraq,2011,5
+New Zealand,Iraq,2012,199
+New Zealand,Iraq,2013,105
+New Zealand,Iraq,2014,16
+New Zealand,Iraq,2015,42
+New Zealand,Iraq,2016,24
+New Zealand,Iraq,2017,12
+New Zealand,Jordan,2012,1
+New Zealand,Jordan,2016,5
+New Zealand,Jordan,2017,4
+New Zealand,Japan,2016,1
+New Zealand,South Korea,2016,3
+New Zealand,Lebanon,2016,1
+New Zealand,Liberia,2014,4
+New Zealand,Liberia,2016,1
+New Zealand,Libya,2016,6
+New Zealand,Sri Lanka,2008,2
+New Zealand,Sri Lanka,2009,6
+New Zealand,Sri Lanka,2010,15
+New Zealand,Sri Lanka,2011,15
+New Zealand,Sri Lanka,2012,31
+New Zealand,Sri Lanka,2013,79
+New Zealand,Sri Lanka,2014,70
+New Zealand,Sri Lanka,2015,23
+New Zealand,Sri Lanka,2016,15
+New Zealand,Sri Lanka,2017,11
+New Zealand,Morocco,2016,1
+New Zealand,Myanmar,2008,130
+New Zealand,Myanmar,2009,196
+New Zealand,Myanmar,2010,197
+New Zealand,Myanmar,2011,222
+New Zealand,Myanmar,2012,309
+New Zealand,Myanmar,2013,246
+New Zealand,Myanmar,2014,177
+New Zealand,Myanmar,2015,236
+New Zealand,Myanmar,2017,182
+New Zealand,Malaysia,2016,11
+New Zealand,Nigeria,2016,2
+New Zealand,Nepal,2008,6
+New Zealand,Nepal,2009,6
+New Zealand,Nepal,2013,3
+New Zealand,Nepal,2014,9
+New Zealand,Nepal,2015,1
+New Zealand,Nepal,2016,4
+New Zealand,Nepal,2017,4
+New Zealand,Oman,2016,3
+New Zealand,Oman,2017,4
+New Zealand,Pakistan,2008,1
+New Zealand,Pakistan,2015,3
+New Zealand,Pakistan,2016,14
+New Zealand,Pakistan,2017,61
+New Zealand,Peru,2011,1
+New Zealand,Philippines,2016,5
+New Zealand,Palestinian,2009,29
+New Zealand,Palestinian,2010,21
+New Zealand,Palestinian,2012,5
+New Zealand,Palestinian,2013,24
+New Zealand,Palestinian,2014,18
+New Zealand,Palestinian,2015,24
+New Zealand,Palestinian,2016,1
+New Zealand,Palestinian,2017,62
+New Zealand,Russia,2016,5
+New Zealand,Russia,2017,4
+New Zealand,Rwanda,2008,7
+New Zealand,Rwanda,2009,8
+New Zealand,Saudi Arabia,2015,1
+New Zealand,Saudi Arabia,2016,24
+New Zealand,Sudan,2008,2
+New Zealand,Sudan,2009,21
+New Zealand,Sudan,2011,4
+New Zealand,Sudan,2012,6
+New Zealand,Sudan,2013,11
+New Zealand,Sudan,2014,4
+New Zealand,Sudan,2015,3
+New Zealand,Sudan,2017,4
+New Zealand,Singapore,2016,1
+New Zealand,Somalia,2008,13
+New Zealand,Somalia,2009,5
+New Zealand,Somalia,2010,4
+New Zealand,Somalia,2011,5
+New Zealand,Somalia,2012,6
+New Zealand,Somalia,2013,2
+New Zealand,Somalia,2014,17
+New Zealand,Somalia,2015,35
+New Zealand,Somalia,2016,3
+New Zealand,Somalia,2017,14
+New Zealand,Kosovo,2016,1
+New Zealand,South Sudan,2017,9
+New Zealand,Stateless,2010,1
+New Zealand,Stateless,2014,4
+New Zealand,Syria,2014,14
+New Zealand,Syria,2015,75
+New Zealand,Syria,2016,9
+New Zealand,Syria,2017,313
+New Zealand,Togo,2016,1
+New Zealand,Thailand,2015,2
+New Zealand,Thailand,2016,3
+New Zealand,Turkey,2016,19
+New Zealand,Tuvalu,2016,6
+New Zealand,Uganda,2010,2
+New Zealand,Uganda,2011,1
+New Zealand,Venezuela,2016,1
+New Zealand,Samoa,2016,4
+New Zealand,Yemen,2015,1
+New Zealand,Yemen,2016,1
+New Zealand,South Africa,2016,20
+New Zealand,Zimbabwe,2016,8
+Philippines,Ghana,2015,1
+Philippines,Iraq,2014,1
+Philippines,Cambodia,2013,13
+Philippines,Cambodia,2014,3
+Philippines,Laos,2011,13
+Philippines,Sri Lanka,2013,1
+Philippines,Palestinian,2012,15
+Philippines,Palestinian,2013,3
+Philippines,Palestinian,2014,13
+Philippines,Somalia,2013,1
+Philippines,Somalia,2015,1
+Philippines,Stateless,2014,9
+Philippines,Stateless,2015,1
+Philippines,Syria,2013,1
+Philippines,Syria,2014,4
+Philippines,Uganda,2014,7
+Philippines,Vietnam,2014,12
+Portugal,Afghanistan,2009,10
+Portugal,Afghanistan,2010,5
+Portugal,Afghanistan,2012,1
+Portugal,Ivory Coast,2014,8
+Portugal,Cameroon,2014,1
+Portugal,Democratic Republic of the Congo,2009,12
+Portugal,Democratic Republic of the Congo,2010,7
+Portugal,Democratic Republic of the Congo,2012,1
+Portugal,Democratic Republic of the Congo,2014,2
+Portugal,Eritrea,2011,23
+Portugal,Eritrea,2012,1
+Portugal,Eritrea,2017,4
+Portugal,Ethiopia,2009,3
+Portugal,Ethiopia,2010,1
+Portugal,Ethiopia,2012,2
+Portugal,Ethiopia,2017,4
+Portugal,Guinea,2012,2
+Portugal,Iran,2010,1
+Portugal,Iran,2013,2
+Portugal,Iran,2014,2
+Portugal,Iraq,2009,4
+Portugal,Iraq,2010,14
+Portugal,Iraq,2011,5
+Portugal,Liberia,2012,1
+Portugal,Mali,2017,4
+Portugal,Mauritania,2011,2
+Portugal,Sudan,2012,17
+Portugal,Sudan,2013,3
+Portugal,Sudan,2017,5
+Portugal,Senegal,2014,1
+Portugal,Somalia,2009,1
+Portugal,Somalia,2010,3
+Portugal,Somalia,2012,2
+Portugal,Somalia,2013,1
+Portugal,Syria,2017,30
+Portugal,Uganda,2010,2
+Paraguay,Colombia,2010,13
+Paraguay,Colombia,2011,22
+Romania,Iraq,2014,40
+Romania,Syria,2017,43
+Sweden,Afghanistan,2008,414
+Sweden,Afghanistan,2009,318
+Sweden,Afghanistan,2010,336
+Sweden,Afghanistan,2011,404
+Sweden,Afghanistan,2012,438
+Sweden,Afghanistan,2013,219
+Sweden,Afghanistan,2014,328
+Sweden,Afghanistan,2015,222
+Sweden,Afghanistan,2016,20
+Sweden,Afghanistan,2017,206
+Sweden,Angola,2008,12
+Sweden,Armenia,2011,1
+Sweden,Armenia,2012,3
+Sweden,Azerbaijan,2010,2
+Sweden,Azerbaijan,2017,4
+Sweden,Burundi,2008,11
+Sweden,Burundi,2009,10
+Sweden,Burundi,2011,2
+Sweden,Burundi,2012,1
+Sweden,Burundi,2013,3
+Sweden,Burundi,2014,4
+Sweden,Burundi,2015,2
+Sweden,Burundi,2016,26
+Sweden,Burundi,2017,50
+Sweden,Bahrain,2013,1
+Sweden,Bosnia and Herzegovina,2012,4
+Sweden,Belarus,2011,3
+Sweden,Central African Republic,2010,9
+Sweden,Central African Republic,2012,11
+Sweden,Central African Republic,2013,3
+Sweden,Central African Republic,2014,9
+Sweden,Central African Republic,2017,8
+Sweden,China,2008,9
+Sweden,China,2009,7
+Sweden,China,2010,15
+Sweden,China,2011,1
+Sweden,China,2013,1
+Sweden,China,2014,2
+Sweden,Ivory Coast,2008,2
+Sweden,Ivory Coast,2009,1
+Sweden,Ivory Coast,2010,4
+Sweden,Ivory Coast,2011,1
+Sweden,Ivory Coast,2012,2
+Sweden,Ivory Coast,2014,6
+Sweden,Ivory Coast,2015,1
+Sweden,Ivory Coast,2017,9
+Sweden,Cameroon,2008,1
+Sweden,Cameroon,2009,3
+Sweden,Cameroon,2010,1
+Sweden,Cameroon,2011,1
+Sweden,Cameroon,2017,4
+Sweden,Democratic Republic of the Congo,2008,100
+Sweden,Democratic Republic of the Congo,2009,35
+Sweden,Democratic Republic of the Congo,2010,89
+Sweden,Democratic Republic of the Congo,2011,58
+Sweden,Democratic Republic of the Congo,2012,48
+Sweden,Democratic Republic of the Congo,2013,158
+Sweden,Democratic Republic of the Congo,2014,226
+Sweden,Democratic Republic of the Congo,2015,217
+Sweden,Democratic Republic of the Congo,2016,344
+Sweden,Democratic Republic of the Congo,2017,544
+Sweden,Republic of Congo,2008,17
+Sweden,Republic of Congo,2009,1
+Sweden,Republic of Congo,2010,10
+Sweden,Republic of Congo,2011,11
+Sweden,Republic of Congo,2012,1
+Sweden,Republic of Congo,2014,3
+Sweden,Republic of Congo,2016,3
+Sweden,Republic of Congo,2017,4
+Sweden,Colombia,2008,74
+Sweden,Colombia,2009,23
+Sweden,Colombia,2010,3
+Sweden,Colombia,2012,145
+Sweden,Colombia,2013,157
+Sweden,Colombia,2014,115
+Sweden,Colombia,2015,116
+Sweden,Costa Rica,2012,2
+Sweden,Cuba,2008,2
+Sweden,Cuba,2012,7
+Sweden,Cuba,2013,1
+Sweden,Cuba,2015,1
+Sweden,Cuba,2016,3
+Sweden,Djibouti,2014,1
+Sweden,Algeria,2012,1
+Sweden,Ecuador,2008,7
+Sweden,Ecuador,2009,2
+Sweden,Ecuador,2010,1
+Sweden,Egypt,2009,2
+Sweden,Egypt,2011,3
+Sweden,Egypt,2012,12
+Sweden,Egypt,2014,3
+Sweden,Egypt,2016,5
+Sweden,Egypt,2017,4
+Sweden,Eritrea,2008,101
+Sweden,Eritrea,2009,193
+Sweden,Eritrea,2010,301
+Sweden,Eritrea,2011,369
+Sweden,Eritrea,2012,320
+Sweden,Eritrea,2013,407
+Sweden,Eritrea,2014,229
+Sweden,Eritrea,2015,43
+Sweden,Eritrea,2016,265
+Sweden,Eritrea,2017,472
+Sweden,Ethiopia,2008,109
+Sweden,Ethiopia,2009,78
+Sweden,Ethiopia,2010,85
+Sweden,Ethiopia,2011,153
+Sweden,Ethiopia,2012,35
+Sweden,Ethiopia,2013,26
+Sweden,Ethiopia,2014,20
+Sweden,Ethiopia,2015,52
+Sweden,Ethiopia,2016,76
+Sweden,Ethiopia,2017,185
+Sweden,Georgia,2009,2
+Sweden,Ghana,2014,1
+Sweden,Guinea,2009,1
+Sweden,Guinea,2011,2
+Sweden,Guinea,2016,7
+Sweden,Guinea,2017,4
+Sweden,Gambia,2008,4
+Sweden,Gambia,2009,1
+Sweden,Equatorial Guinea,2011,6
+Sweden,Guatemala,2016,4
+Sweden,Indonesia,2008,1
+Sweden,Indonesia,2009,1
+Sweden,Iran,2008,97
+Sweden,Iran,2009,94
+Sweden,Iran,2010,80
+Sweden,Iran,2011,33
+Sweden,Iran,2012,14
+Sweden,Iran,2013,9
+Sweden,Iran,2014,8
+Sweden,Iran,2015,1
+Sweden,Iran,2016,12
+Sweden,Iran,2017,4
+Sweden,Iraq,2008,221
+Sweden,Iraq,2009,369
+Sweden,Iraq,2010,116
+Sweden,Iraq,2011,14
+Sweden,Iraq,2012,11
+Sweden,Iraq,2013,6
+Sweden,Iraq,2014,9
+Sweden,Iraq,2015,15
+Sweden,Iraq,2016,6
+Sweden,Iraq,2017,12
+Sweden,Jamaica,2015,1
+Sweden,Jordan,2008,8
+Sweden,Jordan,2009,20
+Sweden,Jordan,2010,6
+Sweden,Jordan,2012,1
+Sweden,Jordan,2017,4
+Sweden,Kazakhstan,2008,3
+Sweden,Kazakhstan,2009,2
+Sweden,Kazakhstan,2010,1
+Sweden,Kazakhstan,2011,2
+Sweden,Kenya,2015,19
+Sweden,Kenya,2016,3
+Sweden,Kenya,2017,12
+Sweden,Kyrgyzstan,2008,3
+Sweden,Kyrgyzstan,2009,5
+Sweden,Kyrgyzstan,2010,7
+Sweden,Kyrgyzstan,2011,1
+Sweden,Cambodia,2008,7
+Sweden,Cambodia,2009,1
+Sweden,Cambodia,2016,1
+Sweden,Liberia,2010,9
+Sweden,Libya,2009,2
+Sweden,Libya,2011,2
+Sweden,Libya,2012,2
+Sweden,Libya,2013,2
+Sweden,Libya,2016,2
+Sweden,Libya,2017,4
+Sweden,Sri Lanka,2008,14
+Sweden,Sri Lanka,2009,4
+Sweden,Sri Lanka,2010,4
+Sweden,Sri Lanka,2011,4
+Sweden,Sri Lanka,2013,9
+Sweden,Lesotho,2011,1
+Sweden,Moldova,2010,1
+Sweden,Mali,2017,4
+Sweden,Myanmar,2008,310
+Sweden,Myanmar,2009,142
+Sweden,Myanmar,2010,50
+Sweden,Myanmar,2011,56
+Sweden,Myanmar,2012,2
+Sweden,Myanmar,2013,10
+Sweden,Myanmar,2015,5
+Sweden,Myanmar,2016,3
+Sweden,Mongolia,2012,1
+Sweden,Mauritania,2012,4
+Sweden,Mauritania,2013,9
+Sweden,Malaysia,2009,1
+Sweden,Namibia,2009,12
+Sweden,Namibia,2010,3
+Sweden,Namibia,2011,17
+Sweden,Namibia,2012,9
+Sweden,Namibia,2013,13
+Sweden,Nigeria,2010,2
+Sweden,Nigeria,2012,2
+Sweden,Nepal,2008,1
+Sweden,Nepal,2017,4
+Sweden,Pakistan,2008,6
+Sweden,Pakistan,2010,1
+Sweden,Pakistan,2011,9
+Sweden,Pakistan,2012,7
+Sweden,Pakistan,2013,3
+Sweden,Pakistan,2014,5
+Sweden,Pakistan,2015,5
+Sweden,Pakistan,2017,9
+Sweden,Philippines,2013,1
+Sweden,Palestinian,2015,9
+Sweden,Palestinian,2016,1
+Sweden,Palestinian,2017,4
+Sweden,Russia,2008,32
+Sweden,Russia,2009,12
+Sweden,Russia,2010,17
+Sweden,Russia,2011,6
+Sweden,Russia,2013,2
+Sweden,Rwanda,2008,4
+Sweden,Rwanda,2009,6
+Sweden,Rwanda,2010,11
+Sweden,Rwanda,2011,10
+Sweden,Rwanda,2012,10
+Sweden,Rwanda,2013,8
+Sweden,Rwanda,2014,1
+Sweden,Rwanda,2015,11
+Sweden,Rwanda,2016,7
+Sweden,Rwanda,2017,5
+Sweden,Saudi Arabia,2011,1
+Sweden,Saudi Arabia,2012,1
+Sweden,Saudi Arabia,2016,1
+Sweden,Saudi Arabia,2017,4
+Sweden,Sudan,2008,12
+Sweden,Sudan,2009,44
+Sweden,Sudan,2010,13
+Sweden,Sudan,2011,92
+Sweden,Sudan,2012,128
+Sweden,Sudan,2013,73
+Sweden,Sudan,2014,8
+Sweden,Sudan,2015,19
+Sweden,Sudan,2016,43
+Sweden,Sudan,2017,56
+Sweden,Senegal,2011,1
+Sweden,Senegal,2012,9
+Sweden,Senegal,2013,7
+Sweden,Sierra Leone,2012,2
+Sweden,El Salvador,2014,10
+Sweden,Somalia,2008,50
+Sweden,Somalia,2009,50
+Sweden,Somalia,2010,404
+Sweden,Somalia,2011,587
+Sweden,Somalia,2012,508
+Sweden,Somalia,2013,355
+Sweden,Somalia,2014,162
+Sweden,Somalia,2015,327
+Sweden,Somalia,2016,218
+Sweden,Somalia,2017,92
+Sweden,Kosovo,2008,2
+Sweden,Kosovo,2011,7
+Sweden,South Sudan,2013,2
+Sweden,South Sudan,2014,6
+Sweden,South Sudan,2015,3
+Sweden,South Sudan,2016,8
+Sweden,South Sudan,2017,25
+Sweden,Stateless,2008,410
+Sweden,Stateless,2009,397
+Sweden,Stateless,2010,143
+Sweden,Stateless,2011,7
+Sweden,Stateless,2012,21
+Sweden,Stateless,2013,35
+Sweden,Stateless,2014,77
+Sweden,Stateless,2015,137
+Sweden,Stateless,2016,122
+Sweden,Stateless,2017,107
+Sweden,Syria,2008,10
+Sweden,Syria,2009,26
+Sweden,Syria,2010,12
+Sweden,Syria,2011,12
+Sweden,Syria,2012,88
+Sweden,Syria,2013,362
+Sweden,Syria,2014,714
+Sweden,Syria,2015,680
+Sweden,Syria,2016,688
+Sweden,Syria,2017,1574
+Sweden,Chad,2008,1
+Sweden,Chad,2012,2
+Sweden,Chad,2017,4
+Sweden,Thailand,2008,1
+Sweden,Tajikistan,2008,1
+Sweden,Tajikistan,2012,2
+Sweden,Tajikistan,2013,11
+Sweden,Tajikistan,2017,4
+Sweden,Tunisia,2010,1
+Sweden,Turkey,2009,7
+Sweden,Turkey,2014,2
+Sweden,Turkey,2016,9
+Sweden,Turkey,2017,9
+Sweden,Uganda,2008,8
+Sweden,Uganda,2012,1
+Sweden,Uganda,2014,15
+Sweden,Uganda,2015,5
+Sweden,Ukraine,2008,10
+Sweden,United States of America,2008,1
+Sweden,Uzbekistan,2008,122
+Sweden,Uzbekistan,2009,60
+Sweden,Uzbekistan,2010,43
+Sweden,Uzbekistan,2011,17
+Sweden,Uzbekistan,2012,18
+Sweden,Uzbekistan,2013,7
+Sweden,Uzbekistan,2015,1
+Sweden,Uzbekistan,2016,3
+Sweden,Uzbekistan,2017,4
+Sweden,Various/unknown,2008,10
+Sweden,Various/unknown,2009,2
+Sweden,Various/unknown,2013,2
+Sweden,Venezuela ,2015,4
+Sweden,Vietnam,2009,2
+Sweden,Vietnam,2010,6
+Sweden,Vietnam,2016,1
+Sweden,Yemen,2017,4
+Sweden,Zimbabwe,2008,1
+Sweden,Zimbabwe,2011,1
+Sweden,Zimbabwe,2014,7
+Sweden,Zimbabwe,2015,6
+Sweden,Zimbabwe,2016,9
+Uruguay,Colombia,2009,11
+Uruguay,Colombia,2010,13
+Uruguay,Colombia,2011,4
+Uruguay,Colombia,2012,7
+Uruguay,Colombia,2013,14
+Uruguay,Colombia,2014,10
+Uruguay,Ecuador,2009,3
+Uruguay,Ecuador,2010,4
+Uruguay,El Salvador,2017,16
+Uruguay,Syria,2014,43
+Uruguay,Venezuela,2012,2
+United States of America,Afghanistan,2008,576
+United States of America,Afghanistan,2009,338
+United States of America,Afghanistan,2010,527
+United States of America,Afghanistan,2011,392
+United States of America,Afghanistan,2012,578
+United States of America,Afghanistan,2013,678
+United States of America,Afghanistan,2014,696
+United States of America,Afghanistan,2015,1168
+United States of America,Afghanistan,2016,2930
+United States of America,Afghanistan,2017,806
+United States of America,Angola,2009,119
+United States of America,Angola,2011,2
+United States of America,Angola,2013,6
+United States of America,Angola,2015,5
+United States of America,Angola,2016,3
+United States of America,Albania,2009,1
+United States of America,United Arab Emirates,2010,1
+United States of America,United Arab Emirates,2016,1
+United States of America,Armenia,2008,9
+United States of America,Armenia,2009,4
+United States of America,Armenia,2010,4
+United States of America,Armenia,2011,12
+United States of America,Armenia,2012,8
+United States of America,Armenia,2013,3
+United States of America,Armenia,2014,45
+United States of America,Armenia,2015,31
+United States of America,Armenia,2016,64
+United States of America,Armenia,2017,61
+United States of America,Azerbaijan,2008,30
+United States of America,Azerbaijan,2009,34
+United States of America,Azerbaijan,2010,21
+United States of America,Azerbaijan,2011,6
+United States of America,Azerbaijan,2012,12
+United States of America,Azerbaijan,2013,3
+United States of America,Azerbaijan,2014,21
+United States of America,Azerbaijan,2015,19
+United States of America,Azerbaijan,2016,39
+United States of America,Azerbaijan,2017,6
+United States of America,Burundi,2008,2889
+United States of America,Burundi,2009,523
+United States of America,Burundi,2010,435
+United States of America,Burundi,2011,129
+United States of America,Burundi,2012,183
+United States of America,Burundi,2013,166
+United States of America,Burundi,2014,133
+United States of America,Burundi,2015,1208
+United States of America,Burundi,2016,777
+United States of America,Burundi,2017,136
+United States of America,Belgium,2011,75
+United States of America,Belgium,2013,10
+United States of America,Belgium,2016,2
+United States of America,Benin,2010,1
+United States of America,Burkina Faso,2010,1
+United States of America,Burkina Faso,2016,1
+United States of America,Burkina Faso,2017,4
+United States of America,Bangladesh,2010,2
+United States of America,Bangladesh,2013,1
+United States of America,Bangladesh,2014,2
+United States of America,Bangladesh,2015,3
+United States of America,Bangladesh,2016,3
+United States of America,Bangladesh,2017,5
+United States of America,Bulgaria,2013,1
+United States of America,Belarus,2008,111
+United States of America,Belarus,2009,148
+United States of America,Belarus,2010,82
+United States of America,Belarus,2012,66
+United States of America,Belarus,2014,60
+United States of America,Belarus,2015,102
+United States of America,Belarus,2016,187
+United States of America,Belarus,2017,99
+United States of America,Bhutan,2008,5320
+United States of America,Bhutan,2009,15077
+United States of America,Bhutan,2010,11729
+United States of America,Bhutan,2011,14735
+United States of America,Bhutan,2012,14459
+United States of America,Bhutan,2013,9051
+United States of America,Bhutan,2014,7476
+United States of America,Bhutan,2015,5764
+United States of America,Bhutan,2016,5974
+United States of America,Bhutan,2017,3640
+United States of America,Botswana,2017,4
+United States of America,Central African Republic,2008,56
+United States of America,Central African Republic,2009,68
+United States of America,Central African Republic,2010,71
+United States of America,Central African Republic,2011,183
+United States of America,Central African Republic,2012,107
+United States of America,Central African Republic,2013,316
+United States of America,Central African Republic,2014,200
+United States of America,Central African Republic,2015,108
+United States of America,Central African Republic,2016,555
+United States of America,Central African Republic,2017,104
+United States of America,Canada,2012,1
+United States of America,China,2008,43
+United States of America,China,2009,77
+United States of America,China,2010,49
+United States of America,China,2011,34
+United States of America,China,2012,63
+United States of America,China,2013,97
+United States of America,China,2014,50
+United States of America,China,2015,33
+United States of America,China,2016,57
+United States of America,China,2017,15
+United States of America,Ivory Coast,2008,30
+United States of America,Ivory Coast,2009,9
+United States of America,Ivory Coast,2010,5
+United States of America,Ivory Coast,2011,7
+United States of America,Ivory Coast,2012,33
+United States of America,Ivory Coast,2013,29
+United States of America,Ivory Coast,2014,39
+United States of America,Ivory Coast,2015,41
+United States of America,Ivory Coast,2016,65
+United States of America,Ivory Coast,2017,48
+United States of America,Cameroon,2008,2
+United States of America,Cameroon,2009,3
+United States of America,Cameroon,2010,5
+United States of America,Cameroon,2012,7
+United States of America,Cameroon,2014,9
+United States of America,Cameroon,2015,8
+United States of America,Cameroon,2016,18
+United States of America,Cameroon,2017,17
+United States of America,Democratic Republic of the Congo,2008,727
+United States of America,Democratic Republic of the Congo,2009,1134
+United States of America,Democratic Republic of the Congo,2010,3160
+United States of America,Democratic Republic of the Congo,2011,1206
+United States of America,Democratic Republic of the Congo,2012,2132
+United States of America,Democratic Republic of the Congo,2013,2623
+United States of America,Democratic Republic of the Congo,2014,5128
+United States of America,Democratic Republic of the Congo,2015,8206
+United States of America,Democratic Republic of the Congo,2016,19829
+United States of America,Democratic Republic of the Congo,2017,5352
+United States of America,Republic of Congo,2008,197
+United States of America,Republic of Congo,2009,346
+United States of America,Republic of Congo,2010,72
+United States of America,Republic of Congo,2011,32
+United States of America,Republic of Congo,2012,141
+United States of America,Republic of Congo,2013,117
+United States of America,Republic of Congo,2014,58
+United States of America,Republic of Congo,2015,22
+United States of America,Republic of Congo,2016,16
+United States of America,Republic of Congo,2017,4
+United States of America,Colombia,2008,94
+United States of America,Colombia,2009,85
+United States of America,Colombia,2010,96
+United States of America,Colombia,2011,49
+United States of America,Colombia,2012,173
+United States of America,Colombia,2013,186
+United States of America,Colombia,2014,461
+United States of America,Colombia,2015,433
+United States of America,Colombia,2016,476
+United States of America,Colombia,2017,180
+United States of America,Cuba,2008,4177
+United States of America,Cuba,2009,4790
+United States of America,Cuba,2010,4865
+United States of America,Cuba,2011,2151
+United States of America,Cuba,2012,2707
+United States of America,Cuba,2013,4101
+United States of America,Cuba,2014,3703
+United States of America,Cuba,2015,1060
+United States of America,Cuba,2016,351
+United States of America,Cuba,2017,87
+United States of America,Djibouti,2009,3
+United States of America,Djibouti,2015,2
+United States of America,Djibouti,2016,2
+United States of America,Djibouti,2017,4
+United States of America,Algeria,2010,2
+United States of America,Algeria,2013,2
+United States of America,Ecuador,2008,3
+United States of America,Ecuador,2014,23
+United States of America,Ecuador,2015,1
+United States of America,Egypt,2008,5
+United States of America,Egypt,2009,19
+United States of America,Egypt,2010,6
+United States of America,Egypt,2011,7
+United States of America,Egypt,2012,10
+United States of America,Egypt,2013,13
+United States of America,Egypt,2014,17
+United States of America,Egypt,2015,11
+United States of America,Egypt,2016,27
+United States of America,Egypt,2017,4
+United States of America,Eritrea,2008,251
+United States of America,Eritrea,2009,1917
+United States of America,Eritrea,2010,2517
+United States of America,Eritrea,2011,1817
+United States of America,Eritrea,2012,1817
+United States of America,Eritrea,2013,1418
+United States of America,Eritrea,2014,1409
+United States of America,Eritrea,2015,1783
+United States of America,Eritrea,2016,2011
+United States of America,Eritrea,2017,1868
+United States of America,Estonia,2008,6
+United States of America,Estonia,2009,2
+United States of America,Estonia,2012,1
+United States of America,Ethiopia,2008,299
+United States of America,Ethiopia,2009,345
+United States of America,Ethiopia,2010,663
+United States of America,Ethiopia,2011,594
+United States of America,Ethiopia,2012,820
+United States of America,Ethiopia,2013,672
+United States of America,Ethiopia,2014,687
+United States of America,Ethiopia,2015,682
+United States of America,Ethiopia,2016,1322
+United States of America,Ethiopia,2017,450
+United States of America,Gabon,2009,1
+United States of America,Gabon,2010,2
+United States of America,Gabon,2011,4
+United States of America,Gabon,2014,3
+United States of America,Gabon,2016,2
+United States of America,United Kingdom,2014,1
+United States of America,Georgia,2008,20
+United States of America,Georgia,2009,2
+United States of America,Georgia,2010,10
+United States of America,Georgia,2011,17
+United States of America,Georgia,2012,4
+United States of America,Georgia,2013,1
+United States of America,Georgia,2014,15
+United States of America,Georgia,2015,12
+United States of America,Georgia,2016,11
+United States of America,Ghana,2009,1
+United States of America,Ghana,2011,1
+United States of America,Ghana,2014,2
+United States of America,Ghana,2017,4
+United States of America,Guinea,2008,3
+United States of America,Guinea,2009,3
+United States of America,Guinea,2010,9
+United States of America,Guinea,2011,1
+United States of America,Guinea,2012,1
+United States of America,Guinea,2013,8
+United States of America,Guinea,2014,10
+United States of America,Guinea,2015,2
+United States of America,Guinea,2016,5
+United States of America,Guinea,2017,7
+United States of America,Gambia,2008,6
+United States of America,Gambia,2009,3
+United States of America,Gambia,2010,9
+United States of America,Gambia,2011,7
+United States of America,Gambia,2012,4
+United States of America,Gambia,2013,9
+United States of America,Gambia,2014,1
+United States of America,Gambia,2015,3
+United States of America,Gambia,2016,5
+United States of America,Guinea Bissau,2008,2
+United States of America,Guinea Bissau,2010,4
+United States of America,Equatorial Guinea,2009,18
+United States of America,Equatorial Guinea,2015,2
+United States of America,Guatemala,2011,5
+United States of America,Guatemala,2016,24
+United States of America,Guatemala,2017,34
+United States of America,Honduras,2010,20
+United States of America,Honduras,2011,5
+United States of America,Honduras,2016,140
+United States of America,Honduras,2017,51
+United States of America,Croatia,2015,1
+United States of America,Croatia,2016,2
+United States of America,Haiti,2010,18
+United States of America,Haiti,2014,4
+United States of America,Indonesia,2011,1
+United States of America,Indonesia,2013,6
+United States of America,Indonesia,2014,18
+United States of America,Indonesia,2015,9
+United States of America,Indonesia,2016,1
+United States of America,Indonesia,2017,4
+United States of America,India,2010,1
+United States of America,India,2011,6
+United States of America,India,2012,1
+United States of America,India,2013,11
+United States of America,India,2014,23
+United States of America,India,2015,1
+United States of America,India,2016,5
+United States of America,India,2017,4
+United States of America,Iran,2008,5270
+United States of America,Iran,2009,5437
+United States of America,Iran,2010,2979
+United States of America,Iran,2011,2100
+United States of America,Iran,2012,1974
+United States of America,Iran,2013,2535
+United States of America,Iran,2014,2830
+United States of America,Iran,2015,3121
+United States of America,Iran,2016,4152
+United States of America,Iran,2017,1545
+United States of America,Iraq,2008,13823
+United States of America,Iraq,2009,19477
+United States of America,Iraq,2010,18251
+United States of America,Iraq,2011,6339
+United States of America,Iraq,2012,16369
+United States of America,Iraq,2013,18567
+United States of America,Iraq,2014,20337
+United States of America,Iraq,2015,10169
+United States of America,Iraq,2016,11332
+United States of America,Iraq,2017,3339
+United States of America,Jamaica,2015,1
+United States of America,Jamaica,2016,1
+United States of America,Jordan,2009,3
+United States of America,Jordan,2010,4
+United States of America,Jordan,2011,4
+United States of America,Jordan,2012,3
+United States of America,Jordan,2013,63
+United States of America,Jordan,2014,25
+United States of America,Jordan,2015,4
+United States of America,Jordan,2016,6
+United States of America,Jordan,2017,4
+United States of America,Kazakhstan,2008,62
+United States of America,Kazakhstan,2009,54
+United States of America,Kazakhstan,2010,27
+United States of America,Kazakhstan,2011,55
+United States of America,Kazakhstan,2012,11
+United States of America,Kazakhstan,2013,5
+United States of America,Kazakhstan,2014,46
+United States of America,Kazakhstan,2015,58
+United States of America,Kazakhstan,2016,82
+United States of America,Kazakhstan,2017,30
+United States of America,Kenya,2009,1
+United States of America,Kenya,2011,1
+United States of America,Kenya,2012,26
+United States of America,Kenya,2013,8
+United States of America,Kenya,2014,17
+United States of America,Kenya,2015,2
+United States of America,Kenya,2016,6
+United States of America,Kenya,2017,5
+United States of America,Kyrgyzstan,2008,25
+United States of America,Kyrgyzstan,2009,60
+United States of America,Kyrgyzstan,2010,34
+United States of America,Kyrgyzstan,2011,15
+United States of America,Kyrgyzstan,2012,55
+United States of America,Kyrgyzstan,2013,7
+United States of America,Kyrgyzstan,2014,17
+United States of America,Kyrgyzstan,2015,8
+United States of America,Kyrgyzstan,2016,54
+United States of America,Kyrgyzstan,2017,11
+United States of America,Cambodia,2008,8
+United States of America,Cambodia,2009,12
+United States of America,Cambodia,2010,7
+United States of America,Cambodia,2011,10
+United States of America,Cambodia,2012,1
+United States of America,Cambodia,2013,42
+United States of America,Cambodia,2014,34
+United States of America,Cambodia,2015,1
+United States of America,Cambodia,2016,17
+United States of America,Cambodia,2017,4
+United States of America,Kuwait,2008,1
+United States of America,Kuwait,2009,5
+United States of America,Kuwait,2010,39
+United States of America,Kuwait,2011,5
+United States of America,Kuwait,2012,4
+United States of America,Kuwait,2013,11
+United States of America,Kuwait,2014,15
+United States of America,Kuwait,2015,2
+United States of America,Kuwait,2016,6
+United States of America,Kuwait,2017,4
+United States of America,Laos,2008,59
+United States of America,Laos,2009,6
+United States of America,Laos,2010,135
+United States of America,Laos,2011,115
+United States of America,Laos,2012,18
+United States of America,Laos,2014,2
+United States of America,Laos,2016,7
+United States of America,Lebanon,2008,2
+United States of America,Lebanon,2009,3
+United States of America,Lebanon,2010,1
+United States of America,Lebanon,2011,1
+United States of America,Lebanon,2013,4
+United States of America,Lebanon,2014,7
+United States of America,Liberia,2008,992
+United States of America,Liberia,2009,447
+United States of America,Liberia,2010,181
+United States of America,Liberia,2011,132
+United States of America,Liberia,2012,56
+United States of America,Liberia,2013,81
+United States of America,Liberia,2014,28
+United States of America,Liberia,2015,11
+United States of America,Liberia,2016,19
+United States of America,Liberia,2017,5
+United States of America,Libya,2009,1
+United States of America,Libya,2011,1
+United States of America,Libya,2012,5
+United States of America,Libya,2013,1
+United States of America,Libya,2014,1
+United States of America,Libya,2016,4
+United States of America,Sri Lanka,2008,1
+United States of America,Sri Lanka,2009,56
+United States of America,Sri Lanka,2010,117
+United States of America,Sri Lanka,2011,60
+United States of America,Sri Lanka,2012,52
+United States of America,Sri Lanka,2013,88
+United States of America,Sri Lanka,2014,68
+United States of America,Sri Lanka,2015,86
+United States of America,Sri Lanka,2016,84
+United States of America,Sri Lanka,2017,9
+United States of America,Lithuania,2009,1
+United States of America,Lithuania,2010,3
+United States of America,Latvia,2008,6
+United States of America,Latvia,2009,1
+United States of America,Latvia,2011,4
+United States of America,Latvia,2016,8
+United States of America,Morocco,2008,3
+United States of America,Morocco,2009,2
+United States of America,Morocco,2012,2
+United States of America,Morocco,2013,1
+United States of America,Morocco,2014,1
+United States of America,Morocco,2016,2
+United States of America,Moldova,2008,487
+United States of America,Moldova,2009,497
+United States of America,Moldova,2010,257
+United States of America,Moldova,2011,303
+United States of America,Moldova,2012,294
+United States of America,Moldova,2013,75
+United States of America,Moldova,2015,259
+United States of America,Moldova,2016,550
+United States of America,Moldova,2017,266
+United States of America,Madagascar,2009,3
+United States of America,Macedonia,2014,241
+United States of America,Mali,2012,1
+United States of America,Mali,2013,1
+United States of America,Mali,2014,2
+United States of America,Mali,2015,8
+United States of America,Mali,2016,4
+United States of America,Mali,2017,4
+United States of America,Myanmar,2008,18139
+United States of America,Myanmar,2009,19920
+United States of America,Myanmar,2010,17176
+United States of America,Myanmar,2011,15713
+United States of America,Myanmar,2012,15112
+United States of America,Myanmar,2013,14580
+United States of America,Myanmar,2014,15971
+United States of America,Myanmar,2015,17483
+United States of America,Myanmar,2016,11572
+United States of America,Myanmar,2017,3722
+United States of America,Mongolia,2016,3
+United States of America,Mongolia,2017,4
+United States of America,Mauritania,2008,26
+United States of America,Mauritania,2009,13
+United States of America,Mauritania,2010,66
+United States of America,Mauritania,2011,3
+United States of America,Mauritania,2014,4
+United States of America,Malaysia,2010,2
+United States of America,Malaysia,2011,4
+United States of America,Malaysia,2015,1
+United States of America,Malaysia,2016,3
+United States of America,Namibia,2015,1
+United States of America,Niger,2012,4
+United States of America,Nigeria,2008,76
+United States of America,Nigeria,2009,1
+United States of America,Nigeria,2010,2
+United States of America,Nigeria,2011,1
+United States of America,Nigeria,2012,2
+United States of America,Nigeria,2013,6
+United States of America,Nigeria,2015,3
+United States of America,Nigeria,2016,7
+United States of America,Nigeria,2017,4
+United States of America,Netherlands,2011,1
+United States of America,Netherlands,2015,1
+United States of America,Norway,2016,2
+United States of America,Nepal,2008,4
+United States of America,Nepal,2009,7
+United States of America,Nepal,2011,14
+United States of America,Nepal,2012,47
+United States of America,Nepal,2013,101
+United States of America,Nepal,2014,126
+United States of America,Nepal,2015,37
+United States of America,Nepal,2016,33
+United States of America,Nepal,2017,31
+United States of America,New Zealand,2017,5
+United States of America,Oman,2017,4
+United States of America,Pakistan,2008,104
+United States of America,Pakistan,2009,83
+United States of America,Pakistan,2010,43
+United States of America,Pakistan,2011,111
+United States of America,Pakistan,2012,241
+United States of America,Pakistan,2013,159
+United States of America,Pakistan,2014,229
+United States of America,Pakistan,2015,205
+United States of America,Pakistan,2016,604
+United States of America,Pakistan,2017,249
+United States of America,Philippines,2013,1
+United States of America,Philippines,2014,4
+United States of America,Philippines,2016,2
+United States of America,Philippines,2017,4
+United States of America,North Korea,2008,37
+United States of America,North Korea,2009,18
+United States of America,North Korea,2010,17
+United States of America,North Korea,2011,16
+United States of America,North Korea,2012,23
+United States of America,North Korea,2013,14
+United States of America,North Korea,2014,15
+United States of America,North Korea,2015,14
+United States of America,North Korea,2016,19
+United States of America,North Korea,2017,4
+United States of America,Palestinian,2008,9
+United States of America,Palestinian,2009,188
+United States of America,Palestinian,2010,993
+United States of America,Palestinian,2011,86
+United States of America,Palestinian,2012,177
+United States of America,Palestinian,2013,162
+United States of America,Palestinian,2014,140
+United States of America,Palestinian,2015,79
+United States of America,Palestinian,2016,71
+United States of America,Palestinian,2017,51
+United States of America,Russia,2008,426
+United States of America,Russia,2009,453
+United States of America,Russia,2010,265
+United States of America,Russia,2011,161
+United States of America,Russia,2012,198
+United States of America,Russia,2013,93
+United States of America,Russia,2014,198
+United States of America,Russia,2015,292
+United States of America,Russia,2016,527
+United States of America,Russia,2017,367
+United States of America,Rwanda,2008,108
+United States of America,Rwanda,2009,111
+United States of America,Rwanda,2010,202
+United States of America,Rwanda,2011,86
+United States of America,Rwanda,2012,165
+United States of America,Rwanda,2013,125
+United States of America,Rwanda,2014,51
+United States of America,Rwanda,2015,197
+United States of America,Rwanda,2016,150
+United States of America,Rwanda,2017,74
+United States of America,Saudi Arabia,2011,1
+United States of America,Saudi Arabia,2014,2
+United States of America,Saudi Arabia,2015,5
+United States of America,Sudan,2008,375
+United States of America,Sudan,2009,705
+United States of America,Sudan,2010,505
+United States of America,Sudan,2011,442
+United States of America,Sudan,2012,1529
+United States of America,Sudan,2013,2044
+United States of America,Sudan,2014,1043
+United States of America,Sudan,2015,1688
+United States of America,Sudan,2016,1479
+United States of America,Sudan,2017,652
+United States of America,Senegal,2008,1
+United States of America,Senegal,2010,2
+United States of America,Senegal,2011,1
+United States of America,Senegal,2012,5
+United States of America,Senegal,2013,2
+United States of America,Senegal,2015,7
+United States of America,Senegal,2016,27
+United States of America,Senegal,2017,10
+United States of America,Singapore,2014,3
+United States of America,Sierra Leone,2008,99
+United States of America,Sierra Leone,2009,60
+United States of America,Sierra Leone,2010,48
+United States of America,Sierra Leone,2011,20
+United States of America,Sierra Leone,2012,1
+United States of America,Sierra Leone,2013,3
+United States of America,Sierra Leone,2014,10
+United States of America,Sierra Leone,2015,2
+United States of America,Sierra Leone,2016,5
+United States of America,Sierra Leone,2017,4
+United States of America,El Salvador,2015,11
+United States of America,El Salvador,2016,757
+United States of America,El Salvador,2017,833
+United States of America,Somalia,2008,2523
+United States of America,Somalia,2009,4620
+United States of America,Somalia,2010,4401
+United States of America,Somalia,2011,3453
+United States of America,Somalia,2012,5891
+United States of America,Somalia,2013,7450
+United States of America,Somalia,2014,10057
+United States of America,Somalia,2015,7779
+United States of America,Somalia,2016,10786
+United States of America,Somalia,2017,2770
+United States of America,Kosovo,2008,1
+United States of America,Kosovo,2016,2
+United States of America,South Sudan,2012,2
+United States of America,South Sudan,2013,34
+United States of America,South Sudan,2015,113
+United States of America,South Sudan,2016,221
+United States of America,South Sudan,2017,107
+United States of America,Sweden,2011,1
+United States of America,Sweden,2016,2
+United States of America,Sweden,2017,4
+United States of America,Syria,2008,24
+United States of America,Syria,2009,32
+United States of America,Syria,2010,24
+United States of America,Syria,2011,23
+United States of America,Syria,2012,41
+United States of America,Syria,2013,45
+United States of America,Syria,2014,271
+United States of America,Syria,2015,2192
+United States of America,Syria,2016,15479
+United States of America,Syria,2017,3024
+United States of America,Chad,2008,23
+United States of America,Chad,2009,14
+United States of America,Chad,2010,43
+United States of America,Chad,2011,2
+United States of America,Chad,2012,16
+United States of America,Chad,2013,28
+United States of America,Chad,2014,31
+United States of America,Chad,2015,6
+United States of America,Chad,2016,7
+United States of America,Chad,2017,4
+United States of America,Togo,2008,204
+United States of America,Togo,2009,5
+United States of America,Togo,2010,10
+United States of America,Togo,2011,11
+United States of America,Togo,2012,23
+United States of America,Togo,2013,15
+United States of America,Togo,2014,25
+United States of America,Togo,2015,5
+United States of America,Togo,2016,14
+United States of America,Togo,2017,4
+United States of America,Thailand,2009,2
+United States of America,Thailand,2010,7
+United States of America,Thailand,2011,2
+United States of America,Thailand,2012,3
+United States of America,Thailand,2013,4
+United States of America,Thailand,2014,8
+United States of America,Thailand,2015,3
+United States of America,Thailand,2016,3
+United States of America,Thailand,2017,4
+United States of America,Tibetan,2017,4
+United States of America,Tajikistan,2008,2
+United States of America,Tajikistan,2010,3
+United States of America,Tajikistan,2013,4
+United States of America,Tajikistan,2015,15
+United States of America,Tajikistan,2016,2
+United States of America,Turkmenistan,2008,2
+United States of America,Turkmenistan,2009,8
+United States of America,Turkmenistan,2010,4
+United States of America,Turkmenistan,2011,2
+United States of America,Turkmenistan,2013,8
+United States of America,Turkmenistan,2014,2
+United States of America,Turkmenistan,2015,5
+United States of America,Tunisia,2010,1
+United States of America,Tunisia,2011,1
+United States of America,Tunisia,2012,1
+United States of America,Tunisia,2013,1
+United States of America,Tunisia,2014,2
+United States of America,Tunisia,2015,7
+United States of America,Tunisia,2016,2
+United States of America,Tunisia,2017,4
+United States of America,Turkey,2008,6
+United States of America,Turkey,2010,3
+United States of America,Turkey,2015,2
+United States of America,Turkey,2017,4
+United States of America,United Republic of Tanzania,2008,1
+United States of America,United Republic of Tanzania,2011,2
+United States of America,United Republic of Tanzania,2013,1
+United States of America,United Republic of Tanzania,2016,1
+United States of America,United Republic of Tanzania,2017,4
+United States of America,Uganda,2008,42
+United States of America,Uganda,2009,12
+United States of America,Uganda,2010,21
+United States of America,Uganda,2011,12
+United States of America,Uganda,2012,20
+United States of America,Uganda,2013,9
+United States of America,Uganda,2014,22
+United States of America,Uganda,2015,66
+United States of America,Uganda,2016,71
+United States of America,Uganda,2017,44
+United States of America,Ukraine,2008,1022
+United States of America,Ukraine,2009,552
+United States of America,Ukraine,2010,428
+United States of America,Ukraine,2011,458
+United States of America,Ukraine,2012,346
+United States of America,Ukraine,2013,209
+United States of America,Ukraine,2014,667
+United States of America,Ukraine,2015,1760
+United States of America,Ukraine,2016,3642
+United States of America,Ukraine,2017,3089
+United States of America,Uzbekistan,2008,134
+United States of America,Uzbekistan,2009,170
+United States of America,Uzbekistan,2010,194
+United States of America,Uzbekistan,2011,83
+United States of America,Uzbekistan,2012,139
+United States of America,Uzbekistan,2013,39
+United States of America,Uzbekistan,2014,65
+United States of America,Uzbekistan,2015,34
+United States of America,Uzbekistan,2016,46
+United States of America,Uzbekistan,2017,39
+United States of America,Various/unknown,2008,7
+United States of America,Various/unknown,2013,15
+United States of America,Venezuela ,2008,3
+United States of America,Venezuela ,2009,3
+United States of America,Venezuela,2012,7
+United States of America,Vietnam,2008,1196
+United States of America,Vietnam,2009,1754
+United States of America,Vietnam,2010,470
+United States of America,Vietnam,2011,120
+United States of America,Vietnam,2012,87
+United States of America,Vietnam,2013,63
+United States of America,Vietnam,2014,80
+United States of America,Vietnam,2015,39
+United States of America,Vietnam,2016,57
+United States of America,Vietnam,2017,52
+United States of America,Yemen,2009,58
+United States of America,Yemen,2010,4
+United States of America,Yemen,2012,7
+United States of America,Yemen,2013,5
+United States of America,Yemen,2014,14
+United States of America,Yemen,2015,8
+United States of America,Yemen,2016,27
+United States of America,Yemen,2017,17
+United States of America,South Africa,2012,1
+United States of America,South Africa,2014,3
+United States of America,South Africa,2015,2
+United States of America,Zambia,2009,1
+United States of America,Zambia,2012,2
+United States of America,Zambia,2016,1
+United States of America,Zambia,2017,4
+United States of America,Zimbabwe,2008,3
+United States of America,Zimbabwe,2009,11
+United States of America,Zimbabwe,2010,6
+United States of America,Zimbabwe,2011,5
+United States of America,Zimbabwe,2013,12
+United States of America,Zimbabwe,2014,3
+United States of America,Zimbabwe,2015,5
+United States of America,Zimbabwe,2016,11
+United States of America,Zimbabwe,2017,5

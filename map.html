@@ -1,0 +1,137 @@
+<!--html to display map created in map.js. Also displays year slidebar, legend, and buttons. we learned how to do slidebars from w3schools-->
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Refugee Resettlement</title>
+        <script src="https://d3js.org/d3.v3.js"></script>
+        <style>
+
+            .state {
+                fill: #a6a6a6 ;
+                stroke: black;
+
+                stroke-width: .1;
+            } 
+            h1 {
+                font-size: 20px; 
+            }
+            text {
+                font-size: 12px;
+
+            }
+            .yearVal{
+                font-size: 20px;
+            }
+
+            .slideYear {
+                width: 70%;
+            }
+
+            .slider {
+                -webkit-appearance: none;
+                width: 90%;
+                height: 12px;
+                border-radius: 5px;
+                background: #d3d3d3;
+                outline: none;
+                opacity: 0.7;
+                -webkit-transition: .2s;
+                transition: opacity .2s;
+            }
+
+            .slider:hover {
+                opacity: 1;
+            }
+
+            .slider::-webkit-slider-thumb {
+                -webkit-appearance: none;
+                appearance: none;
+                width: 22px;
+                height: 22px;
+                border-radius: 60%;
+                background: #283747  ;
+                cursor: pointer;
+            }
+
+
+        </style>
+    </head>
+
+    <body>
+        <h1>Refugee Resettlement: A Geographic Presentation and Time Series from 2008 - 2017 </h1>
+        <button id="default">Overall Trend</button>
+        <button id="byOrigin">By Country of Origin</button>
+        <button id="byResettlement">By Country of Resettlement</button>
+        <div id="mapDiv"></div>
+
+        <!--
+This is to display the values of data when moused over
+-->
+        <div class="infobox" style="visibility: hidden;" >
+            <p>Country: <strong class="country"></strong> &nbsp &nbsp
+                Inbound Refugees: <strong class="inbound"></strong> &nbsp &nbsp
+                Outbound Refugees: <strong class="outbound"></strong>&nbsp  &nbsp</p> 
+        </div>
+<!--This is to display legend-->
+        <div id="legendDiv" style ="display:inline-block">
+
+            <div id="legendR" > <svg width="100%" height="20" style="visibility: visible;" >
+                <svg>
+                    <text id= 'rightVal' x="5" y="15" fill="black" style="font-size:10">Inbound Population:</text>
+
+                    <rect id='rect0' width="50" height="20" style="fill:#edf8e9;stroke-width:1;stroke:rgb(0,0,0)" x=100 /><title> minimum</title></svg>
+                <text id= 'rightVal' x="125" y="15" fill="black">1</text>
+
+                <svg><rect id='rect1' width="50" height="20" style="fill:#bae4b3;stroke-width:1;stroke:rgb(0,0,0)" x=150 /><title> 25th percentile</title></svg>
+                <text id= 'rightVal' x="170" y="15" fill="black">28</text>
+
+                <svg><rect id='rect2' width="50" height="20" style="fill:#74c476;stroke-width:1;stroke:rgb(0,0,0)" x=200  /><title> median</title></svg>
+                <text id= 'rightVal' x="223" y="15" fill="black">309</text>
+
+                <svg><rect id='rect3' width="50" height="20" style="fill:#31a354;stroke-width:1;stroke:rgb(0,0,0)" x=250  /><title> 75th percentile</title></svg>            
+                <text id= 'rightVal' x="260" y="15" fill="black">1,093</text>
+
+
+
+                <svg><rect id='rect4' width="50" height="20" style="fill:#006d2c;stroke-width:1;stroke:rgb(0,0,0)" x=300  /><title> maximum</title></svg>
+
+
+                <text id= 'rightVal' x="310" y="15" fill="black">96,874</text>
+
+                </svg></div>
+
+            <div id="legendO" > <svg width="800" height="20" style="visibility: visible;display:inline-block" >
+                <text id= 'rightVal' x="5" y="15" fill="black" style="font-size:10">Outbound Population:</text>
+                <svg><rect id='rect0' width="50" height="20" style="fill:#fee5d9;stroke-width:1;stroke:rgb(0,0,0)" x="100" /><title> minimum</title></svg>
+                <text id= 'rightVal' x="125" y="15" fill="black">1</text>
+                <svg><rect id='rect1' width="50" height="20" style="fill:#fcae91;stroke-width:1;stroke:rgb(0,0,0)" x=150 /><title> 25th percentile</title></svg>
+                <text id= 'rightVal' x="173" y="15" fill="black">6</text>
+
+                <svg><rect id='rect2' width="50" height="20" style="fill:#fb6a4a;stroke-width:1;stroke:rgb(0,0,0)" x=200  /><title> median</title></svg>
+                <text id= 'rightVal' x="220" y="15" fill="black">28</text>
+
+                <svg><rect id='rect3' width="50" height="20" style="fill:#de2d26;stroke-width:1;stroke:rgb(0,0,0)" x=250  /><title> 75th percentile</title></svg>
+                <text id= 'rightVal' x="265" y="15" fill="black">215</text>
+
+                <svg><rect id='rect4' width="50" height="20" style="fill:#a50f15;stroke-width:1;stroke:rgb(0,0,0)" x=300  /><title> maximum</title></svg>
+                <text id= 'rightVal' x="310" y="15" fill="black">63,032</text>
+
+                </svg></div>
+        </div>
+
+        <script src="map.js"></script>
+        <!--For the year Slider-->
+        <div class="slideYear">
+            <text id='yearVal'>2008</text>
+            <input type="range" min="2008" max="2017" value="2017" class="slider" id="myRange">
+            <text id='yearVal'>2017</text>
+            <p>Select a Year: <strong><span id="year"></span></strong></p>
+
+        </div>
+        <p>Use the slider to update the map's data per year. While viewing "By Country of Origin", highlight a country to see the countries that refugees from that country resettled in during the selected year. In "By Country of Resettlement", highlight a country to see countries of origins for the resettled refugees in that country. </p>
+        <p id="source">Source: <a href= http://popstats.unhcr.org/en/resettlement>Resettlement Population Statistics, UNHCR (2008-2017) 
+            </a></p>
+        <p>Created by Claudia Naughton and Yingying Wang (November 2018) </p>
+    </body>
+</html>
