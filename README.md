@@ -21,12 +21,9 @@ finalProjectWriteUp - a pdf contains descriptions and screenshots of our visuali
 
 ## Screenshots:
 ##### Overall Trend:
-![alt text](screenshots/home.png "Overall")
-##### About Page:
-![alt text](screenshots/about.png "about")
-##### Selecting Criteria from drop-down boxes:
-![alt text](screenshots/dropdown.png "criteria")
-##### Game Results:
-![alt text](screenshots/gameResults.png "results")
-##### Random Game:
-![alt text](screenshots/random.png "random")
+![alt text](screenshots/Overall.png "Overall Trend")
+##### By Country Of Resettlement:
+![alt text](screenshots/ByCountryOfResettlement.png "ByCountryOfResettlement")
+##### By Country Of Resettlement:
+![alt text](screenshots/ByCountryOfOrigin.png "ByCountryOfOrigin")
+
