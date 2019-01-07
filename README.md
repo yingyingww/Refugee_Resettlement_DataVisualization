@@ -18,3 +18,15 @@ default.csv - data used in "Overall Trend" map
 rawdata.csv - data used for ""By Country of Origin" and "By Country of Resettlement" maps
 custom.geo.json- json file for country shapes
 finalProjectWriteUp - a pdf contains descriptions and screenshots of our visualizations
+
+## Screenshots:
+##### Overall Trend:
+![alt text](screenshots/home.png "Overall")
+##### About Page:
+![alt text](screenshots/about.png "about")
+##### Selecting Criteria from drop-down boxes:
+![alt text](screenshots/dropdown.png "criteria")
+##### Game Results:
+![alt text](screenshots/gameResults.png "results")
+##### Random Game:
+![alt text](screenshots/random.png "random")
