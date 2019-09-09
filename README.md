@@ -2,7 +2,7 @@
 This visualization is designed to show movement and trend of refugee resettlement between countries of origin and countries of resettlement during the past decade. The dataset we chose to use is the Resettlement Population Statistics from UNHCR.
 ## Authors: 
 Yingying Wang, Claudia Naughton
-11/19/17, CS314 final project Carleton College
+11/19/18, CS314 final project Carleton College
 
 ##### Data sources: 
 Refugee data is sourced from the UNHCR data at http://popstats.unhcr.org/en/resettlement. The variables included in the visualization are years (2008 - 2017), countries of origin, and countries of asylum. The json file used to create country paths was sourced from https://geojson-maps.ash.ms/.
